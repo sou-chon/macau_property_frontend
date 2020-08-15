@@ -1,0 +1,14 @@
+.one_place {
+    width: 100%;
+    padding: 1rem;
+    border-bottom: solid 1px grey;
+}
+
+.one_place:hover {
+    background: grey;
+}
+
+.search_bar > input {
+    width: 100%;
+    padding: 0.5rem 1rem;
+}
