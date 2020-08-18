@@ -9,12 +9,26 @@ export class Map extends React.Component {
                 <DraggableSVG/>
                 <div className={style.map_zoom_button}>
                     <button onClick={() => {
-                        const originalScale = document.getElementById('coloane_svg')!.style.transform;
-                        document.getElementById('coloane_svg')!.style.transform = incrementScale(originalScale);
+                        const canvas = document.getElementById('map_canva')!;
+                        const ctx = (canvas as any).getContext('2d');
+                        const img = new Image();
+                        img.onload = () => {
+                            ctx.clearRect(0, 0, 10000, 10000);
+                            ctx.scale(1.25, 1.25);
+                            ctx.drawImage(img, 0, 0);
+                        };
+                        img.src = '/coloane.svg';
                     }}>+</button>
                     <button onClick={() => {
-                        const originalScale = document.getElementById('coloane_svg')!.style.transform;
-                        document.getElementById('coloane_svg')!.style.transform = decrementScale(originalScale);
+                        const canvas = document.getElementById('map_canva')!;
+                        const ctx = (canvas as any).getContext('2d');
+                        const img = new Image();
+                        img.onload = () => {
+                            ctx.clearRect(0, 0, 10000, 10000);
+                            ctx.scale(0.8, 0.8);
+                            ctx.drawImage(img, 0, 0);
+                        };
+                        img.src = '/coloane.svg';
                     }}>-</button>
                 </div>
             </div>

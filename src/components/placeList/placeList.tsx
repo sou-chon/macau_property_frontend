@@ -30,7 +30,9 @@ export const PlaceList: FC<{ places: Place[] }> = ({ places }) => {
 export const OnePlaceDisplay: FC<{ place: Place }> = ({ place }) => {
     return (
         <NavLink to={`/${place.id}`}>
-            <button className={style.one_place}>
+            <button className={style.one_place} onClick={() => {
+                const canvas = document.getElementById('map_canva')!;
+            }}>
                 <b>Name</b>: {place.name}<br/>
                 <b>Location</b>: {place.location_name}
             </button>
