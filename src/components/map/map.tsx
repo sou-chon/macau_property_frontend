@@ -1,19 +1,12 @@
 import React, { FunctionComponent as FC }from 'react';
-import { COLOANE_SVG } from '../../static/coloane';
 import style from './map.module.css';
+import { DraggableSVG } from './draggableSVG';
 
 export class Map extends React.Component {
-    componentDidMount() {
-        const pic = document.getElementById('coloane_svg')!;
-        pic.addEventListener('drag', () => {
-
-        });
-    }
-
     render() {
         return (
             <div className={style.map}>
-                <COLOANE_SVG/>
+                <DraggableSVG/>
                 <div className={style.map_zoom_button}>
                     <button onClick={() => {
                         const originalScale = document.getElementById('coloane_svg')!.style.transform;
