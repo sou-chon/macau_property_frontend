@@ -4,24 +4,36 @@
     height: 100%;
     width: 100%;
     font-weight: var(--font-weight);
-    display: grid;
-    grid-template-columns: 300px calc(100% - 300px);
-    grid-template-rows: 50px calc(100% - 50px);
-    grid-template-areas:
-        "mainMenuBar mainMenuBar"
-        "leftPanel rightPanel"
+    position: relative;
+    /*display: grid;*/
+    /*grid-template-columns: 300px calc(100% - 300px);*/
+    /*grid-template-rows: 50px calc(100% - 50px);*/
+    /*grid-template-areas:*/
+    /*    "mainMenuBar mainMenuBar"*/
+    /*    "leftPanel rightPanel"*/
 }
 
 .left_panel {
-    grid-area: leftPanel;
-    height: 100%;
-    background: green;
-    border-right: solid 1px grey;
+    position: absolute;
+    right: 3%;
+    top: 3%;
+    height: 80%;
+    width: 300px;
+    background: white;
+    border-radius: 5px;
+    /*border: solid 1px rgba(0, 0, 0, 0.65);*/
+    box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+    z-index: 1000;
 }
 
 .right_panel {
-    grid-area: rightPanel;
+    /*grid-area: rightPanel;*/
+    width: 100%;
     height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 3;
 }
 
 .main_menubar {
@@ -31,3 +43,4 @@
     padding: 1rem 1.2rem 1rem 1.2rem;
     border-right: 1px solid var(--color-main-menu-border);
 }
+

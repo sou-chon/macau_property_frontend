@@ -1,11 +1,12 @@
 .one_place {
     width: 100%;
     padding: 1rem;
-    border-bottom: solid 1px grey;
+    border-bottom: solid 1px #c7c7c7;
+    background: white;
 }
 
 .one_place:hover {
-    background: grey;
+    background: #e8e8e8;
 }
 
 .search_bar > input {

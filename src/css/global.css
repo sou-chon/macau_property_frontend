@@ -1,3 +1,5 @@
+#mapid { height: 100%; }
+
 :root {
     --font-size-root: 13px;
     --font-size: 0.9rem;
@@ -117,14 +119,24 @@ body > div {
 /*    line-height: 20px;*/
 /*    background: var(--color-button);*/
 /*}*/
+.more_photo_button {
+    color: #d323ff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.image_display_show {
+    opacity: 1;
+    z-index: 999999;
+}
 
 button:hover {
-    background: var(--color-button-hover);
+    /*background: var(--color-button-hover);*/
     cursor: pointer;
 }
 
 button:active {
-    background: var(--color-button-active);
+    /*background: var(--color-button-active);*/
     cursor: pointer;
 }
 
@@ -326,7 +338,6 @@ h4 {
 h3 {
     display: block;
     color: var(--color-text-title-rightpanel);
-    border-bottom: 1px solid rgb(77, 77, 77);
     font-size: 1.4rem;
     margin-bottom: 1rem;
 }

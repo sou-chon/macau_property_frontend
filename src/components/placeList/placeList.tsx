@@ -2,6 +2,7 @@ import React, { FunctionComponent as FC } from 'react';
 import { Place } from '../../models/place';
 import { NavLink } from 'react-router-dom';
 import style from './placeList.module.css';
+import { controller } from '../controller/controller';
 
 export const PlaceList: FC<{ places: Place[] }> = ({ places }) => {
     const [searchText, setSearchText] = React.useState('');
@@ -29,13 +30,13 @@ export const PlaceList: FC<{ places: Place[] }> = ({ places }) => {
 
 export const OnePlaceDisplay: FC<{ place: Place }> = ({ place }) => {
     return (
-        <NavLink to={`/${place.id}`}>
+        //<NavLink to={`/${place.id}`}>
             <button className={style.one_place} onClick={() => {
-                const canvas = document.getElementById('map_canva')!;
+                controller.focusToMarker(place.name);
             }}>
                 <b>Name</b>: {place.name}<br/>
                 <b>Location</b>: {place.location_name}
             </button>
-        </NavLink>
+        //</NavLink>
     );
 };
