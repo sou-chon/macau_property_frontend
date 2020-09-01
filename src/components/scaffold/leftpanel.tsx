@@ -8,9 +8,14 @@ import { Place } from '../../models/place';
 export const LeftPanel: FC = () => {
     return (
         <div className={style.left_panel}>
-            <Switch>
-                <Route path='/' render={() => <PlaceList places={Place.fromArray(hardCodedPlaces)}/>}/>
-            </Switch>
+            {
+                /*
+            <div id='hover_info'>
+                <span>Hover over buildings for info</span>
+            </div>
+                 */
+            }
+            <PlaceList/>
         </div>
     );
 };

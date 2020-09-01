@@ -2,7 +2,7 @@
     width: 100%;
     padding: 1rem;
     border-bottom: solid 1px #c7c7c7;
-    background: white;
+    background: inherit;
 }
 
 .one_place:hover {
@@ -13,3 +13,4 @@
     width: 100%;
     padding: 0.5rem 1rem;
 }
+

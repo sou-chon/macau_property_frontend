@@ -125,10 +125,6 @@ body > div {
     cursor: pointer;
 }
 
-.image_display_show {
-    opacity: 1;
-    z-index: 999999;
-}
 
 button:hover {
     /*background: var(--color-button-hover);*/
@@ -382,4 +378,18 @@ h3 {
   -moz-user-drag: none; 
   -o-user-drag: none; 
   user-drag: none; 
+}
+
+#hover_info {
+    height: 70px;
+    border-bottom: 1px solid #c3c3c3;
+    position: relative;
+}
+
+#hover_info > span {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
 }
