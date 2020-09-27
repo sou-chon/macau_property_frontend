@@ -10,17 +10,17 @@ declare const L: any;
 
 export class RightPanel extends C {
     componentDidMount() {
-        const mymap = L.map('mapid', {
-            crs: L.CRS.Simple,
-            center: [500.505, 450],
-        }).setView([51.505, -0.09], 13);
+        const mymap = L.map('mapid').setView([74, 252], 4);
+        L.tileLayer('/macau/{z}/{x}/{y}.png', {
+            attribution: 'Leaflet',
+            maxZoom: 6,
+            minZoom: 4,
+            id: 'mapbox/streets-v11',
+            tileSize: 256,
+        }).addTo(mymap);
 
         (window as any).mymap = mymap;
-        const bounds = [[0,0], [2400, 1000]];
-        const image = L.imageOverlay('/maps/map_entire.png', bounds).addTo(mymap);
-        mymap.fitBounds(bounds);
         mymap.setZoom(1);
-        mymap.panTo([400, 500]);
 
         controller.initialiseWithMap(mymap);
 
@@ -92,4 +92,3 @@ function highlightFeature(e: any) {
         layer.bringToFront();
     }
 }
-
