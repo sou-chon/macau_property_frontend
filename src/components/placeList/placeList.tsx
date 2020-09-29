@@ -3,6 +3,7 @@ import { Place } from '../../models/place';
 import { NavLink } from 'react-router-dom';
 import style from './placeList.module.css';
 import { controller } from '../controller/controller';
+import { MapNav } from '../MapNav/MapNav';
 
 export const PlaceList: FC = () => {
     const [searchText, setSearchText] = React.useState('');
@@ -13,6 +14,7 @@ export const PlaceList: FC = () => {
             <div className={style.search_bar}>
                 SEARCH BY NAME / ID: <input type='text' value={searchText} onChange={e => setSearchText(e.target.value)}/>
             </div>
+            <MapNav/>
         {
             searchText.length > 0
                 ?

@@ -1,0 +1,28 @@
+.main_map_button {
+    background-color: green;
+}
+
+.main_map_button_current {
+    background-color: red;
+}
+
+.quick_nav_container {
+    position: relative;
+}
+
+.quick_nav_popup {
+    position: absolute;
+    top: 1rem;
+    left: 3rem;
+    display: none;
+}
+
+.quick_nav_container:hover > .quick_nav_popup {
+    display: block;
+}
+
+.quick_nav_button {
+    background-color: grey;
+    display: block;
+    margin: 0.5rem;
+}
