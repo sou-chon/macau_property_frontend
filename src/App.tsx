@@ -4,9 +4,11 @@ import { LeftPanel, RightPanel } from './components/scaffold/index';
 import { ImageDisplay } from './components/imageDisplay/imageDisplay';
 import style from './components/scaffold/scaffold.module.css';
 import './css/global.css';
+import './components/map/map.css';
+import { MacauMap, TaipaMap, ColoaneMap } from './components/map/map';
 import { createBrowserHistory } from "history";
 export const history = createBrowserHistory();
-(window as any)._history = history; 
+window._history = history; 
 
 function App() {
   return (
@@ -20,4 +22,17 @@ function App() {
   );
 }
 
-export default App;
+function MyApp() {
+    //return <div style={{ width: '100vw', height: '100vh' }}>
+    //    <MacauMap/>
+    //</div>;
+    return (
+        <div id='map_container'>
+            <MacauMap/>
+            <TaipaMap/>
+            <ColoaneMap/>
+            <LeftPanel/>
+        </div>
+    );
+}
+export default MyApp;
