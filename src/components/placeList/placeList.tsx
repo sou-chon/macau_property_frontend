@@ -1,16 +1,22 @@
-import React, { FunctionComponent as FC } from 'react';
+import React, { FunctionComponent as FC, useEffect } from 'react';
 import { Place } from '../../models/place';
 import { NavLink } from 'react-router-dom';
 import style from './placeList.module.css';
-import { controller } from '../controller/controller';
 import { MapNav } from '../MapNav/MapNav';
 
 export const PlaceList: FC = () => {
     const [searchText, setSearchText] = React.useState('');
     const [filterIsland, setFilterIsland] = React.useState('');
 
+    useEffect(() => {
+        window.place_info_div = document.getElementById('place_info')!;
+    }, [])
+
     return (
         <div>
+            <div id='place_info'>
+                Hover to show place info 
+            </div>
             <div className={style.search_bar}>
                 SEARCH BY NAME / ID: <input type='text' value={searchText} onChange={e => setSearchText(e.target.value)}/>
             </div>
