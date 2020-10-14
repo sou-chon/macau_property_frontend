@@ -32,6 +32,12 @@ function MyApp() {
             <MacauMap/>
             <TaipaMap/>
             <ColoaneMap/>
+            <Router history={history}>
+                <Switch>
+                    <Route path='/:placeID/:faceID' component={ImageDisplay}/>
+                    <Route path='/' render={() => <></>}/>
+                </Switch>
+            </Router>
         </div>
     );
 }

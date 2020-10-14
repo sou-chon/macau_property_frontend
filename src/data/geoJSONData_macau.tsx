@@ -9,21 +9,21 @@ export const macauProperties = [
                 "1.jpg",
                 "2.jpg",
             ],
-            "faces": [
-                {
-                    //"arrowCentre": [31.8189697265625, -87.38726806640625],
-                    "arrowCentre": [-87.67, 31.7],
-                    "rotation": 19
-                },
-                {
-                    "arrowCentre": [-86.359375, 31.28125],
-                    "rotation": 105
-                },
-                {
-                    "arrowCentre": [-85.42, 31.86],
-                    "rotation": 140
-                },
-            ]
+            //"faces": [
+            //    {
+            //        //"arrowCentre": [31.8189697265625, -87.38726806640625],
+            //        "arrowCentre": [-87.67, 31.7],
+            //        "rotation": 19
+            //    },
+            //    {
+            //        "arrowCentre": [-86.359375, 31.28125],
+            //        "rotation": 105
+            //    },
+            //    {
+            //        "arrowCentre": [-85.42, 31.86],
+            //        "rotation": 140
+            //    },
+            //]
         },
         "geometry": {
             "type": "Polygon",
@@ -48,9 +48,6 @@ export const macauProperties = [
             "images": [
                 "3.jpg",
                 "2.jpg",
-            ],
-            "faces": [
-
             ]
         },
         "geometry": {
@@ -82,7 +79,6 @@ export const macauProperties = [
                 "3.jpg",
                 "4.jpg",
             ],
-            faces: []
         },
         "geometry": {
             "type": "Polygon",
@@ -119,7 +115,6 @@ export const macauProperties = [
                 "5.jpg",
                 "4.jpg",
             ],
-            faces: []
         },
         "geometry": {
             "type": "Polygon",
@@ -151,7 +146,6 @@ export const macauProperties = [
                 "6.jpg",
                 "4.jpg",
             ],
-            faces: []
         },
         "geometry": {
             "type": "Polygon",
@@ -193,7 +187,6 @@ export const macauProperties = [
                 "6.jpg",
                 "5.jpg",
             ],
-            faces: []
         },
         "geometry": {
             "type": "Polygon",
@@ -227,7 +220,6 @@ export const macauProperties = [
                 "6.jpg",
                 "5.jpg",
             ],
-            faces: []
         },
         "geometry": {
             "type": "Polygon",
@@ -267,7 +259,6 @@ export const macauProperties = [
                 "6.jpg",
                 "5.jpg",
             ],
-            faces: []
         },
         "geometry": {
             "type": "Polygon",

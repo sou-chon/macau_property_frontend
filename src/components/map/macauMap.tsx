@@ -1,7 +1,7 @@
 import React, { Component as C } from 'react';
 import L from 'leaflet';
 import { macauProperties } from '../../data/geoJSONData_macau';
-import { makeArrow, calculateTextOffset } from '../../utils/index';
+//import { makeArrow, calculateTextOffset } from '../../utils/index';
 
 export class MacauMap extends C {
     componentDidMount() {
@@ -50,11 +50,17 @@ export class MacauMap extends C {
             window.place_info_div.innerHTML = `${layer.feature.properties.id} - ${layer.feature.properties.name}`
         }
 
+        function openImageDisplay(e: any) {
+            const placeID = e.target.feature.properties.id;
+            window._history.push(`/${placeID}/1`);
+        }
+
         function onEachFeature(feature: any, layer: any) {
             layer.on({
                 mouseover: highlightFeature,
                 mouseout: resetHighlight,
-                click: zoomToFeature
+                click: zoomToFeature,
+                dblclick: openImageDisplay
             });
             const { properties: { name, id, faces } } = feature;
             //layer.bindPopup(L.popup({ minWidth: 200 }).setContent(`
@@ -68,10 +74,10 @@ export class MacauMap extends C {
             //        }">Show photos</span>
             //    </div>`)
             //);
-            window.face_arrows[id] = L.layerGroup(
-                faces.map((el: any, ind: number) =>
-                    L.polygon(makeArrow(el.arrowCentre, 0.3, el.rotation) as any, {color: 'red', fillOpacity: 1}).bindTooltip(`F${ind}`, { opacity: 1, permanent: true, className: 'myCSSClass', offset: calculateTextOffset(el.rotation) as any})
-            ));
+            //window.face_arrows[id] = L.layerGroup(
+            //    faces.map((el: any, ind: number) =>
+            //        L.polygon(makeArrow(el.arrowCentre, 0.3, el.rotation) as any, {color: 'red', fillOpacity: 1}).bindTooltip(`F${ind}`, { opacity: 1, permanent: true, className: 'myCSSClass', offset: calculateTextOffset(el.rotation) as any})
+            //));
         }
 
         function resetHighlight(e: any) {
@@ -83,7 +89,6 @@ export class MacauMap extends C {
         function zoomToFeature(e: any) {
             console.log(e.target.feature.properties.id);
             map.fitBounds(e.target.getBounds().pad(1.5));
-            window.face_arrows[e.target.feature.properties.id].addTo(window.map_macau);
         }
 
         const geojson = L.geoJSON(macauProperties as any, {
