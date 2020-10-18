@@ -3,6 +3,7 @@ import { Place } from '../../models/place';
 import { NavLink } from 'react-router-dom';
 import style from './placeList.module.css';
 import { MapNav } from '../MapNav/MapNav';
+import { macauProperties } from '../../data/geoJSONData_macau';
 
 export const PlaceList: FC = () => {
     const [searchText, setSearchText] = React.useState('');
@@ -13,26 +14,27 @@ export const PlaceList: FC = () => {
     }, [])
 
     return (
-        <div>
-            <div id='place_info'>
-                Hover to show place info 
-            </div>
+    <>
+        <div id='map_navigation'>
             <div className={style.search_bar}>
-                SEARCH BY NAME / ID: <input type='text' value={searchText} onChange={e => setSearchText(e.target.value)}/>
+                <input type='text' placeholder='Search name or ID' value={searchText} onChange={e => setSearchText(e.target.value)}/>
             </div>
         {
             searchText.length > 0
                 ?
-                <div>hey</div>
-                //(window as any).geojson
-                //    .getLayers()
-                //    .filter((el: any) => filterLayerBySearchString(el, searchText))
-                //    .map((el: any) => <OnePlaceDisplay key={el._leaflet_id} layer={el}/>)
+                window.geojson_macau
+                    .getLayers()
+                    .filter((el: any) => filterLayerBySearchString(el, searchText))
+                    .map((el: any) => <OnePlaceDisplay key={el._leaflet_id} layer={el}/>)
                 :
                 <MapNav/>
 
         }
         </div>
+        <div id='place_info'>
+            Hover to show place info 
+        </div>
+    </>
     );
 };
 
@@ -44,7 +46,7 @@ export const OnePlaceDisplay: FC<{ layer: any }> = ({ layer }) => {
     return (
         //<NavLink to={`/${place.id}`}>
             <button className={style.one_place} onClick={() => {
-                (window as any).mymap.fitBounds(layer.getBounds().pad(1.5));
+                window.map_macau.fitBounds(layer.getBounds().pad(1.5));
                 layer.openPopup();
             }}>
                 <b>Name</b>: {name}<br/>

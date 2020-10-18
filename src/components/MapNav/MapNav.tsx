@@ -39,7 +39,7 @@ export const MapNav: FC = () => {
                         className={style.quick_nav_button}
                         onClick={() => {
                             switchToMap(maps_enum.macau);
-                            window.map_macau.setView([50, 223], 5);
+                            window.map_macau.setView([-86.4349365234375, 33.84765625], 5);
                             setCurrentMap(maps_enum.macau);
                         }}
                     >
@@ -49,7 +49,7 @@ export const MapNav: FC = () => {
                         className={style.quick_nav_button}
                         onClick={() => {
                             switchToMap(maps_enum.macau);
-                            window.map_macau.setView([66, 232], 5);
+                            window.map_macau.setView([-61.8555908203125, 39.486572265625], 5);
                             setCurrentMap(maps_enum.macau);
                         }}
                     >
@@ -59,7 +59,7 @@ export const MapNav: FC = () => {
                         className={style.quick_nav_button}
                         onClick={() => {
                             switchToMap(maps_enum.macau);
-                            window.map_macau.setView([77, 276], 5);
+                            window.map_macau.setView([-38.372314453125, 70.858154296875], 5);
                             setCurrentMap(maps_enum.macau);
                         }}
                     >
@@ -69,7 +69,7 @@ export const MapNav: FC = () => {
                         className={style.quick_nav_button}
                         onClick={() => {
                             switchToMap(maps_enum.macau);
-                            window.map_macau.setView([25, 202], 5);
+                            window.map_macau.setView([-107.96875, 22.28125], 5);
                             setCurrentMap(maps_enum.macau);
                         }}
                     >
@@ -79,7 +79,7 @@ export const MapNav: FC = () => {
                         className={style.quick_nav_button}
                         onClick={() => {
                             switchToMap(maps_enum.macau);
-                            window.map_macau.setView([65, 272], 5);
+                            window.map_macau.setView([-66.5714111328125, 70.341796875], 5);
                             setCurrentMap(maps_enum.macau);
                         }}
                     >

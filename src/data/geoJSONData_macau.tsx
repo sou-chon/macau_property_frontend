@@ -4,26 +4,15 @@ export const macauProperties = [
         "properties": {
             "name": "聖奧斯定堂",
             "id": "MM001",
-            "popup_coor": [357, 1853.5],
             "images": [
-                "1.jpg",
-                "2.jpg",
+                "f1-1.jpg",
+                "f1-2.jpg",
+                "f2-1.jpg",
+                "f3-1.jpg",
+                "f3-2.jpg",
+                "f3-3.jpg",
             ],
-            //"faces": [
-            //    {
-            //        //"arrowCentre": [31.8189697265625, -87.38726806640625],
-            //        "arrowCentre": [-87.67, 31.7],
-            //        "rotation": 19
-            //    },
-            //    {
-            //        "arrowCentre": [-86.359375, 31.28125],
-            //        "rotation": 105
-            //    },
-            //    {
-            //        "arrowCentre": [-85.42, 31.86],
-            //        "rotation": 140
-            //    },
-            //]
+            "numFaces": 3
         },
         "geometry": {
             "type": "Polygon",
@@ -46,9 +35,10 @@ export const macauProperties = [
             "id": "MM002",
             "popup_coor": [357, 1853.5],
             "images": [
-                "3.jpg",
-                "2.jpg",
-            ]
+                "f1-1.jpg",
+                "f2-1.jpg",
+            ],
+            numFaces: 3
         },
         "geometry": {
             "type": "Polygon",
@@ -76,9 +66,10 @@ export const macauProperties = [
             "id": "MM003",
             "popup_coor": [357, 1853.5],
             "images": [
-                "3.jpg",
-                "4.jpg",
+                "f1-1.jpg",
+                "f2-1.jpg",
             ],
+            numFaces: 2
         },
         "geometry": {
             "type": "Polygon",
@@ -115,6 +106,7 @@ export const macauProperties = [
                 "5.jpg",
                 "4.jpg",
             ],
+            numFaces: 2
         },
         "geometry": {
             "type": "Polygon",
@@ -146,6 +138,7 @@ export const macauProperties = [
                 "6.jpg",
                 "4.jpg",
             ],
+            numFaces: 5
         },
         "geometry": {
             "type": "Polygon",
@@ -187,6 +180,7 @@ export const macauProperties = [
                 "6.jpg",
                 "5.jpg",
             ],
+            numFaces: 1
         },
         "geometry": {
             "type": "Polygon",
@@ -220,6 +214,7 @@ export const macauProperties = [
                 "6.jpg",
                 "5.jpg",
             ],
+            numFaces: 3
         },
         "geometry": {
             "type": "Polygon",
@@ -259,6 +254,7 @@ export const macauProperties = [
                 "6.jpg",
                 "5.jpg",
             ],
+            numFaces: 6
         },
         "geometry": {
             "type": "Polygon",

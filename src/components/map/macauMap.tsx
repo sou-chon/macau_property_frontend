@@ -99,6 +99,7 @@ export class MacauMap extends C {
             },
             onEachFeature
         }).addTo(map);
+        window.geojson_macau = geojson;
         //const square = [[50, 221], [51, 221], [51, 220], [50, 220]].map(el => map.unproject(el as any, 5));
         //L.polygon(square as any, {color: 'red', fillOpacity: 1}).addTo(map);
     }

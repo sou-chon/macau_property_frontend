@@ -2,15 +2,24 @@
     width: 100%;
     padding: 1rem;
     border-bottom: solid 1px #c7c7c7;
-    background: inherit;
+    background-color: rgba(0, 0, 0, 0);
 }
 
 .one_place:hover {
-    background: #e8e8e8;
+    background-color: rgba(100,100, 100,0.5);
 }
 
 .search_bar > input {
     width: 100%;
-    padding: 0.5rem 1rem;
+    background-color: none;
+    border-bottom: none;
+}
+
+.search_bar > input:focus{
+    border-bottom: none;
+}
+
+.search_bar {
+    padding: 1rem;
 }
 

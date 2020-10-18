@@ -2,8 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import { macauProperties } from './data/geoJSONData_macau';
 
 window.face_arrows = {};
+window.data_hash = macauProperties.reduce((a: any, el: any) => {
+    const id = el.properties.id;
+    a[id] = el;
+    return a;
+}, {});
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

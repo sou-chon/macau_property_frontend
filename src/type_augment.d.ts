@@ -1,5 +1,23 @@
 import L from 'leaflet';
 
+interface IPlaceData {
+    type: string;
+    properties: IPlaceDataProperties;
+    geometry: IPlaceDataGeometry;
+}
+
+interface IPlaceDataProperties {
+    name: string;
+    id: string;
+    images: string[];
+    numFaces: number;
+}
+
+interface IPlaceDataGeometry {
+    type: string;
+    coordinates: number[][][];
+}
+
 declare global {
     interface Window {
         _history: any;
@@ -11,6 +29,8 @@ declare global {
         map_coloane_container: HTMLElement;
         place_info_div: HTMLElement;
         face_arrows: any;
-    }
+        data_hash: { [id: string]: IPlaceData };
+        geojson_macau: any;
+    };
 }
 
