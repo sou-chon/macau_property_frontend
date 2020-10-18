@@ -20,16 +20,16 @@ export const PlaceList: FC = () => {
             <div className={style.search_bar}>
                 SEARCH BY NAME / ID: <input type='text' value={searchText} onChange={e => setSearchText(e.target.value)}/>
             </div>
-            <MapNav/>
         {
             searchText.length > 0
                 ?
-                (window as any).geojson
-                    .getLayers()
-                    .filter((el: any) => filterLayerBySearchString(el, searchText))
-                    .map((el: any) => <OnePlaceDisplay key={el._leaflet_id} layer={el}/>)
+                <div>hey</div>
+                //(window as any).geojson
+                //    .getLayers()
+                //    .filter((el: any) => filterLayerBySearchString(el, searchText))
+                //    .map((el: any) => <OnePlaceDisplay key={el._leaflet_id} layer={el}/>)
                 :
-                null
+                <MapNav/>
 
         }
         </div>

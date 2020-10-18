@@ -12,26 +12,28 @@ export const MapNav: FC = () => {
 
     return (
         <div>
-            <button
-                className={`${style.main_map_button}${currentMap === maps_enum.macau ? ` ${style.main_map_button_current}` : ''}`}
-                onClick={() => { switchToMap(maps_enum.macau); setCurrentMap(maps_enum.macau); }}
-            >
-                Macau
-            </button>
-            <button
-                className={`${style.main_map_button}${currentMap === maps_enum.taipa ? ` ${style.main_map_button_current}` : ''}`}
-                onClick={() => { switchToMap(maps_enum.taipa); setCurrentMap(maps_enum.taipa); }}
-            >
-                Taipa
-            </button>
-            <button
-                className={`${style.main_map_button}${currentMap === maps_enum.coloane ? ` ${style.main_map_button_current}` : ''}`}
-                onClick={() => { switchToMap(maps_enum.coloane); setCurrentMap(maps_enum.coloane); }}
-            >
-                Coloane
-            </button>
+            <div className={style.main_map_button_container}>
+                <button
+                    className={`${style.main_map_button}${currentMap === maps_enum.macau ? ` ${style.main_map_button_current}` : ''}`}
+                    onClick={() => { switchToMap(maps_enum.macau); setCurrentMap(maps_enum.macau); }}
+                >
+                    Macau
+                </button>
+                <button
+                    className={`${style.main_map_button}${currentMap === maps_enum.taipa ? ` ${style.main_map_button_current}` : ''}`}
+                    onClick={() => { switchToMap(maps_enum.taipa); setCurrentMap(maps_enum.taipa); }}
+                >
+                    Taipa
+                </button>
+                <button
+                    className={`${style.main_map_button}${currentMap === maps_enum.coloane ? ` ${style.main_map_button_current}` : ''}`}
+                    onClick={() => { switchToMap(maps_enum.coloane); setCurrentMap(maps_enum.coloane); }}
+                >
+                    Coloane
+                </button>
+            </div>
             <div id='map_quick_nav' className={style.quick_nav_container}>
-                <div>Quick Nav</div>
+                <div className={style.quick_nav_index_button}>&#9666;Quick Nav</div>
                 <div className={style.quick_nav_popup}>
                     <button
                         className={style.quick_nav_button}

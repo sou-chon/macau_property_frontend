@@ -1,9 +1,35 @@
+
 .main_map_button {
-    background-color: green;
+    display: inline-block;
+    width: 100px;
+    background-color: rgba(50, 50, 50,0.2);
+    height: 50px;
+    transition: background-color 0.15s ease-in-out;
+}
+
+.main_map_button:hover {
+    background-color: rgba(100,100, 100,0.5);
+
 }
 
 .main_map_button_current {
-    background-color: red;
+    background-color: rgba(50, 50, 50,0.5);
+}
+
+.main_map_button_current:hover {
+    background-color: rgba(50, 50, 50,0.5);
+}
+
+.quick_nav_index_button {
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.15s ease-in-out;
+}
+
+.quick_nav_index_button:hover {
+    background-color: rgba(100,100, 100,0.5);
 }
 
 .quick_nav_container {
@@ -12,9 +38,16 @@
 
 .quick_nav_popup {
     position: absolute;
-    top: 1rem;
-    left: 3rem;
+    /*background-color: green;*/
+    top: 0rem;
+    right: calc(300px - 2rem);
     display: none;
+    width: 200px;
+    /*background-color: rgba(255,255,255,0.8);*/
+    box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+    border-radius: 5px;
+    max-height: 400px;
+    overflow: auto;
 }
 
 .quick_nav_container:hover > .quick_nav_popup {
@@ -22,7 +55,15 @@
 }
 
 .quick_nav_button {
-    background-color: grey;
+    width: 200px;
     display: block;
-    margin: 0.5rem;
+    padding: 0.5rem;
+    /*background-color: inherit;*/
+    background-color: rgba(255,255,255,0.8);
+    border-bottom: 1px solid rgba(150, 150, 150, 0.8);
+    transition: background-color 0.15s ease-in-out;
+}
+
+.quick_nav_button:hover {
+    background-color: rgba(150,150,150,0.8);
 }

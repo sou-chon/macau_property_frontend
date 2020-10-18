@@ -8,8 +8,7 @@ export const ImageDisplay: FC<RouteComponentProps<{ placeID: string, faceID: str
     console.log(placeID);
     return (
         <>
-            <div className={style.white_out}>
-                g
+            <div className={style.white_out} onClick={() => window._history.push('/')}>
             </div>
             <div className={style.image_display}>
                 <div className={style.face_image}>

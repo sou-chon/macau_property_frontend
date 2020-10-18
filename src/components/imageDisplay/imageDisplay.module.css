@@ -19,7 +19,7 @@
     background: white;
     box-shadow: 0 1px 5px rgba(0,0,0,0.65);
     border-radius: 5px;
-    padding: 1.5rem;
+    padding: 0.5rem;
     display: grid;
     grid-template-columns: 250px calc(100% - 250px);
     grid-template-rows: 50px 200px calc(100% - 250px);
