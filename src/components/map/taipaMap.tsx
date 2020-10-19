@@ -5,11 +5,12 @@ export class TaipaMap extends C {
     componentDidMount() {
         const map = L.map('map_taipa', {
             maxBounds: [[
-                85, 181 
+                0, 0.1875
             ], [
-                25.2, 398 
-            ]]
-        }).setView([58, 305], 4);
+                -109.75, 154.6875
+            ]],
+            crs: L.CRS.Simple
+        }).setView([-79.739, 104.48], 5);
 
         L.tileLayer('/taipa/{z}/{x}/{y}.png', {
             attribution: 'Leaflet',

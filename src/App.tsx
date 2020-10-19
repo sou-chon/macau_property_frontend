@@ -7,7 +7,6 @@ import './css/global.css';
 import './components/map/map.css';
 import { MacauMap, TaipaMap, ColoaneMap } from './components/map/map';
 import { createBrowserHistory } from "history";
-import { macauProperties } from './data/geoJSONData_macau';
 export const history = createBrowserHistory();
 window._history = history; 
 

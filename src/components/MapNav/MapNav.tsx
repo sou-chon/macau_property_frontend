@@ -89,7 +89,7 @@ export const MapNav: FC = () => {
                         className={style.quick_nav_button}
                         onClick={() => {
                             switchToMap(maps_enum.taipa);
-                            window.map_taipa.setView([56, 326], 5);
+                            window.map_taipa.setView([-79.739, 104.48], 5);
                             setCurrentMap(maps_enum.taipa);
                         }}
                     >

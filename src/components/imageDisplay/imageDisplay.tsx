@@ -18,7 +18,7 @@ export const ImageDisplay: FC<RouteComponentProps<{ placeID: string, faceID: str
         );
     }
 
-    const { id, name, images, numFaces } =  data.properties;
+    const { id, name, images, numFaces, address } =  data.properties;
 
     return (
         <>
@@ -31,6 +31,8 @@ export const ImageDisplay: FC<RouteComponentProps<{ placeID: string, faceID: str
                 <div className={style.place_info}>
                     <h5>{id}</h5>
                     <h5>{name}</h5>
+                    <br/>
+                    <span>{address}</span>
                 </div>
                 <div className={style.face_selection}>
                     {

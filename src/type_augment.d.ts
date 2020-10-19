@@ -11,6 +11,7 @@ interface IPlaceDataProperties {
     id: string;
     images: string[];
     numFaces: number;
+    address: string;
 }
 
 interface IPlaceDataGeometry {

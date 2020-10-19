@@ -5,11 +5,12 @@ export class ColoaneMap extends C {
     componentDidMount() {
         const map = L.map('map_coloane', {
             maxBounds: [[
-                25, 180
+                -0.55, 0.9345
             ], [
-                85, 398
-            ]]
-        }).setView([56, 199], 4);
+                -108.55, 153.684
+            ]],
+            crs: L.CRS.Simple
+        }).setView([-75.68, 23.91], 5);
 
         L.tileLayer('/coloane/{z}/{x}/{y}.png', {
             attribution: 'Leaflet',
