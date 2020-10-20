@@ -44,9 +44,8 @@ export const ImageDisplay: FC<RouteComponentProps<{ placeID: string, faceID: str
                 </div>
                 <div className={style.images}>
                     {
-                        images.filter(el => el.includes(`f${faceID}`)).map(el =>
-                            <img src={`/photos/${placeID}/${el}`}/>
-                        )
+                        images.filter(el => el.includes(`F${faceID}`)).map(el =>
+                        <img onClick={() => { window.open(`/photos/${placeID}/${el}`); } } src={`/photos/${placeID}/${el}`}/>)
                     }
                 </div>
             </div>

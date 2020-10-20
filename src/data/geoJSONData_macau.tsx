@@ -7,7 +7,11 @@ export const macauProperties = [
             "name": "聖奧斯定堂",
             "id": "MM001",
             "address": "位於崗頂前地",
-            "images": [],
+            "images": [
+                'MC001_聖方濟各堂_馬忌士前地_20201012_F1.jpg',
+                'MC001_聖方濟各堂_馬忌士前地_20201012_F2.jpg',
+                'MC001_聖方濟各堂_馬忌士前地_20201012_T.jpg'
+            ],
             "numFaces": 3
         },
         "geometry": {
@@ -58,7 +62,11 @@ export const macauProperties = [
             "name": "聖安多尼堂及前地（花王堂）",
             "id": "MM002",
             "address": "位於花王堂前地",
-            "images": [],
+            "images": [
+                'MM002_聖安多尼堂(花王)_花王堂前地_20200911_F1.jpg',
+                'MM002_聖安多尼堂(花王)_花王堂前地_20200911_F2.jpg',
+                'MM002_聖安多尼堂(花王)_花王堂前地_20200911_F3.jpg'
+            ],
             "numFaces": 3
         },
         "geometry": {
