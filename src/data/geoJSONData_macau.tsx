@@ -8,9 +8,8 @@ export const macauProperties = [
             "id": "MM001",
             "address": "位於崗頂前地",
             "images": [
-                'MC001_聖方濟各堂_馬忌士前地_20201012_F1.jpg',
-                'MC001_聖方濟各堂_馬忌士前地_20201012_F2.jpg',
-                'MC001_聖方濟各堂_馬忌士前地_20201012_T.jpg'
+                'MM001_聖奧斯定堂_崗頂前地_20200811_F1.jpg',
+                'MM001_聖奧斯定堂_崗頂前地_20200811_T.jpg'
             ],
             "numFaces": 3
         },
@@ -137,7 +136,11 @@ export const macauProperties = [
             "name": "玫瑰聖母堂（板樟堂）",
             "id": "MM003",
             "address": "位於板樟堂前地",
-            "images": [],
+            "images": [
+                'MM003_玫瑰聖母堂_板樟堂前地_0904_F1.jpg',
+                'MM003_玫瑰聖母堂_板樟堂前地_0904_F2.jpg',
+                'MM003_玫瑰聖母堂_板樟堂前地_0904_T.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -232,7 +235,9 @@ export const macauProperties = [
             "name": "望德聖母堂及前地",
             "id": "MM004",
             "address": "位於聖母堂前地",
-            "images": [],
+            "images": [
+                'MM004_望德聖母堂及前地_聖母堂前地_0924_T.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -307,7 +312,12 @@ export const macauProperties = [
             "name": "聖老楞佐堂及前地（風順堂）",
             "id": "MM005",
             "address": "位於風順堂街",
-            "images": [],
+            "images": [
+                'MM005_聖老楞佐堂及前地_F2.jpg',
+                'MM005_聖老楞佐堂及前地_F3.jpg',
+                'MM005_聖老楞佐堂及前地_F5.jpg',
+                'MM005_聖老楞佐堂及前地_風順堂街_20200928_T.jpg'
+            ],
             "numFaces": 5
         },
         "geometry": {
@@ -422,7 +432,10 @@ export const macauProperties = [
             "name": "主教座堂（大堂）",
             "id": "MM006",
             "address": "位於大堂前地",
-            "images": [],
+            "images": [
+                'MM006_主教座堂_大堂前地_20200904_F1.jpg',
+                'MM006_主教座堂_大堂前地_20200904_T.jpg'
+            ],
             "numFaces": 1
         },
         "geometry": {
@@ -505,7 +518,12 @@ export const macauProperties = [
             "name": "聖若瑟修院教堂、前地及石階",
             "id": "MM007",
             "address": "位於三巴仔橫街",
-            "images": [],
+            "images": [
+                'MM007_聖若瑟修院教堂,前地及石階_三巴仔橫街_20200928_F1.jpg',
+                'MM007_聖若瑟修院教堂,前地及石階_三巴仔橫街_20200928_F2.jpg',
+                'MM007_聖若瑟修院教堂,前地及石階_三巴仔橫街_20200928_F3.jpg',
+                'MM007_聖若瑟修院教堂,前地及石階_三巴仔橫街_20200928_T.jpg'
+            ],
             "numFaces": 3
         },
         "geometry": {
@@ -612,7 +630,13 @@ export const macauProperties = [
             "name": "聖保祿學院天主之母教堂遺址（大三巴牌坊、前地及石階）",
             "id": "MM008",
             "address": "位於耶穌會紀念廣場",
-            "images": [],
+            "images": [
+                'MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F1.jpg',
+                'MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F2.jpg',
+                'MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F3.jpg',
+                'MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F4.jpg',
+                'MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F5.jpg',
+            ],
             "numFaces": 6
         },
         "geometry": {
@@ -663,7 +687,9 @@ export const macauProperties = [
             "name": "望廈炮台",
             "id": "MM009",
             "address": "位於望廈炮台斜坡",
-            "images": [],
+            "images": [
+                'MM009_望廈炮台_位於望廈炮台斜坡_20200923_T.jpg'
+            ],
             "numFaces": 1
         },
         "geometry": {
@@ -864,7 +890,9 @@ export const macauProperties = [
             "name": "大炮台（中央炮台）",
             "id": "MM012",
             "address": "位於炮兵馬路",
-            "images": [],
+            "images": [
+                'MM012_大炮台(中央炮台)_炮兵馬路_20200925_T.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -975,7 +1003,9 @@ export const macauProperties = [
             "name": "聖地牙哥炮台",
             "id": "MM013",
             "address": "位於媽閣上街",
-            "images": [],
+            "images": [
+                'MM013_聖地牙哥炮台_媽閣上街_20200925_T.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -1070,7 +1100,10 @@ export const macauProperties = [
             "name": "馬交石炮台",
             "id": "MM014",
             "address": "位於馬交石炮台馬路",
-            "images": [],
+            "images": [
+                'MM014_馬交石炮台_馬交石炮台馬路_20201016_F1.jpg',
+                'MM014_馬交石炮台_馬交石炮台馬路_20201016_T.jpg'
+            ],
             "numFaces": 1
         },
         "geometry": {
@@ -1129,7 +1162,10 @@ export const macauProperties = [
             "name": "聖方濟各（加思欄）炮台及兵營",
             "id": "MM015",
             "address": "位於加思欄馬路",
-            "images": [],
+            "images": [
+                'MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_F1.jpg',
+                'MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_T.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -1300,7 +1336,11 @@ export const macauProperties = [
             "name": "關閘拱門",
             "id": "MM016",
             "address": "位於關閘廣場",
-            "images": [],
+            "images": [
+                'MM016_關閘拱門_關閘廣場_20201008_F1.jpg',
+                'MM016_關閘拱門_關閘廣場_20201008_F2.jpg',
+                'MM016_關閘拱門_關閘廣場_20201008_T.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -1335,7 +1375,11 @@ export const macauProperties = [
             "name": "政府總部（原總督府舊址）",
             "id": "MM017",
             "address": "位於南灣馬路",
-            "images": [],
+            "images": [
+                'MM017_政府總部_南灣大馬路_20201008_F1.jpg',
+                'MM017_政府總部_南灣大馬路_20201008_F2.jpg',
+                'MM017_政府總部_南灣大馬路_20201008_F3.jpg'
+            ],
             "numFaces": 4
         },
         "geometry": {
@@ -1378,7 +1422,12 @@ export const macauProperties = [
             "name": "市政署大樓（原市政廰舊址）",
             "id": "MM018",
             "address": "位於亞美打庇盧大馬路／新馬路163號",
-            "images": [],
+            "images": [
+                'MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F1.jpg',
+                'MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F3.jpg',
+                'MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F4.jpg',
+                'MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F5.jpg'
+            ],
             "numFaces": 5
         },
         "geometry": {
@@ -1433,7 +1482,10 @@ export const macauProperties = [
             "name": "澳門仁慈堂大樓",
             "id": "MM019",
             "address": "位於議事亭前地16號",
-            "images": [],
+            "images": [
+                'MM019_仁慈堂大樓_議事亭前地16號_20200907_F1.jpg',
+                'MM019_仁慈堂大樓_議事亭前地16號_20200907_F2.jpg'
+            ],
             "numFaces": 3
         },
         "geometry": {
@@ -1468,7 +1520,12 @@ export const macauProperties = [
             "name": "媽祖閣（媽閣廟）",
             "id": "MM020",
             "address": "位於媽閣廟前地",
-            "images": [],
+            "images": [
+                'MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F1.jpg',
+                'MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F2.jpg',
+                'MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F3.jpg',
+                'MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F4.jpg'
+            ],
             "numFaces": 4
         },
         "geometry": {
@@ -1721,7 +1778,10 @@ export const macauProperties = [
             "name": "普濟禪院（觀音堂）",
             "id": "MM023",
             "address": "位於美副將大馬路",
-            "images": [],
+            "images": [
+                'MM023_普濟禪院(觀音堂)_美副將大馬路_20200923_F1.jpg',
+                'MM023_普濟禪院(觀音堂)_美副將大馬路_20200923_T.jpg'
+            ],
             "numFaces": 3
         },
         "geometry": {
@@ -1935,7 +1995,9 @@ export const macauProperties = [
             "name": "哪咤古廟（柿山）",
             "id": "MM025",
             "address": "位於哪咤廟斜巷",
-            "images": [],
+            "images": [
+                'MM025_哪咤古廟(柿山)_哪咤古廟_20200907_F1.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -1986,7 +2048,10 @@ export const macauProperties = [
             "name": "哪咤廟（大三巴）",
             "id": "MM026",
             "address": "位於聖方濟各斜巷／大三巴斜巷",
-            "images": [],
+            "images": [
+                'MM026_哪咤廟(大三巴)_聖方濟各斜巷_大三巴斜巷_20200925_F1.jpg',
+                'MM026_哪咤廟(大三巴)_聖方濟各斜巷_大三巴斜巷_20200925_F2.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -2021,7 +2086,9 @@ export const macauProperties = [
             "name": "南山廟、包公廟、醫靈廟及呂祖仙院",
             "id": "MM027",
             "address": "位於福慶街",
-            "images": [],
+            "images": [
+                'MM027_南山,包公,醫靈,呂祖仙院_福慶街_20200915_F2.jpg'
+            ],
             "numFaces": 3
         },
         "geometry": {
@@ -2080,7 +2147,10 @@ export const macauProperties = [
             "name": "蓮溪新廟",
             "id": "MM028",
             "address": "位於大纜巷",
-            "images": [],
+            "images": [
+                'MM028_蓮溪新廟_大纜巷_20200928_F1.jpg',
+                'MM028_蓮溪新廟_大纜巷_20200928_F2.jpg'
+            ],
             "numFaces": 1
         },
         "geometry": {
@@ -2123,7 +2193,10 @@ export const macauProperties = [
             "name": "仁德堂公所（魯班師傅廟）",
             "id": "MM029",
             "address": "位於白灰街",
-            "images": [],
+            "images": [
+                'MM029_仁德堂公所(魯班師傅廟)_白灰街_20200924_F1.jpg',
+                'MM029_仁德堂公所(魯班師傅廟)_白灰街_20200924_F2.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -2245,7 +2318,10 @@ export const macauProperties = [
             "name": "三街會館（關帝古廟）",
             "id": "MM031",
             "address": "位於公局新市南街",
-            "images": [],
+            "images": [
+                'MM031_三街會館(關帝古廟)_公局新市南街_20200907_F1.jpg',
+                'MM031_三街會館(關帝古廟)_公局新市南街_20200907_F2.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -2280,7 +2356,9 @@ export const macauProperties = [
             "name": "土地古廟（沙梨頭）",
             "id": "MM032",
             "address": "位於麻子街",
-            "images": [],
+            "images": [
+                'MM032_土地古廟(沙梨頭)_麻子街_20200923_F1.jpg'
+            ],
             "numFaces": 1
         },
         "geometry": {
@@ -2387,7 +2465,9 @@ export const macauProperties = [
             "name": "城牆遺跡（聖方濟各斜巷一段）",
             "id": "MM033",
             "address": "位於聖方濟各斜巷／大三巴斜巷",
-            "images": [],
+            "images": [
+                'MM033_城牆遺跡(聖方濟各斜巷一段)_聖方濟各斜巷_大三巴斜巷_20200915_F1.jpg'
+            ],
             "numFaces": 1
         },
         "geometry": {
@@ -2422,7 +2502,9 @@ export const macauProperties = [
             "name": "賈梅士洞",
             "id": "MM034",
             "address": "位於白鴿巢公園",
-            "images": [],
+            "images": [
+                'MM034_賈梅士洞_白鴿巢公園_20200915_F1.jpg'
+            ],
             "numFaces": 1
         },
         "geometry": {
@@ -2477,7 +2559,9 @@ export const macauProperties = [
             "name": "刻有葡國徽號的石塊（蓮峯廟旁）",
             "id": "MM035",
             "address": "位於拱形馬路／關閘馬路",
-            "images": [],
+            "images": [
+                'MM035_刻有葡國徽號的石塊(蓮峯廟旁)_拱形馬路_關閘馬路_20201008_F1.jpg'
+            ],
             "numFaces": 1
         },
         "geometry": {
@@ -2559,7 +2643,10 @@ export const macauProperties = [
             "name": "雀仔園福德祠",
             "id": "MM037",
             "address": "位於澳門馬大臣街與羅憲新街交界",
-            "images": [],
+            "images": [
+                'MM0037_雀仔園福德祠_澳門馬大臣街與羅憲新街交界_20200830_F1.jpg',
+                'MM0037_雀仔園福德祠_澳門馬大臣街與羅憲新街交界_20200830_F2.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -2594,7 +2681,9 @@ export const macauProperties = [
             "name": "福德祠（大碼頭街）",
             "id": "MM038",
             "address": "位於澳門大碼頭街",
-            "images": [],
+            "images": [
+                'MM038_福德祠(大碼頭街)_澳門大碼頭街_20200917_F1.jpg'
+            ],
             "numFaces": 1
         },
         "geometry": {
@@ -2629,7 +2718,9 @@ export const macauProperties = [
             "name": "福德祠（石牆街）",
             "id": "MM039",
             "address": "位於澳門石牆街34號",
-            "images": [],
+            "images": [
+                'MM039_福德祠(石牆街)_澳門石牆街34街_20200923_F1.jpg'
+            ],
             "numFaces": 1
         },
         "geometry": {
@@ -2664,7 +2755,9 @@ export const macauProperties = [
             "name": "福德祠（河邊新街）",
             "id": "MM040",
             "address": "位於澳門河邊新街131號",
-            "images": [],
+            "images": [
+                'MM040_福德祠(河邊新街)_澳門河邊新街131號_20200923_F1.jpg'
+            ],
             "numFaces": 1
         },
         "geometry": {
@@ -2785,7 +2878,11 @@ export const macauProperties = [
             "name": "城牆遺跡，近澳門西望洋聖堂",
             "id": "MM041-3",
             "address": "",
-            "images": [],
+            "images": [
+                'MM041-3_城牆遺址_近西望洋聖堂_20200925_F1.jpg',
+                'MM041-3_城牆遺址_近西望洋聖堂_20200925_F2.jpg',
+                'MM041-3_城牆遺址_近西望洋聖堂_20200925_F3.jpg'
+            ],
             "numFaces": 3
         },
         "geometry": {

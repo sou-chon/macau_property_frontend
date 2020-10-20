@@ -7,7 +7,10 @@ export const coloaneProperties = [
             "name": "聖方濟各堂",
             "id": "MC001",
             "address": "位於馬忌士前地",
-            "images": [],
+            "images": [
+                'MC001_聖方濟各堂_馬忌士前地_20201012_F1.jpg',
+                'MC001_聖方濟各堂_馬忌士前地_20201012_F2.jpg',
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -109,7 +112,9 @@ export const coloaneProperties = [
             "name": "天后古廟",
             "id": "MC003",
             "address": "位於天后廟前地",
-            "images": [],
+            "images": [
+                'MC003_天后古廟_天后古廟前地_20201012_F1.jpg'
+            ],
             "numFaces": 1
         },
         "geometry": {
@@ -144,7 +149,11 @@ export const coloaneProperties = [
             "name": "觀音廟（九澳）",
             "id": "MC004",
             "address": "位於九澳村",
-            "images": [],
+            "images": [
+                'MC004_觀音廟(九澳)_九澳村_20201012_F1.jpg',
+                'MC004_觀音廟(九澳)_九澳村_20201012_F2.jpg',
+                'MC004_觀音廟(九澳)_九澳村_20201012_F3.jpg',
+            ],
             "numFaces": 3
         },
         "geometry": {
@@ -179,7 +188,10 @@ export const coloaneProperties = [
             "name": "三聖宮",
             "id": "MC005",
             "address": "位於船人街",
-            "images": [],
+            "images": [
+                'MC005_三聖宮_船人街_20201012_F1.jpg',
+                'MC005_三聖宮_船人街_20201012_F2.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -214,7 +226,10 @@ export const coloaneProperties = [
             "name": "大王廟",
             "id": "MC006",
             "address": "位於黑沙村",
-            "images": [],
+            "images": [
+                'MC006_大王廟_黑沙村_20201012_F1.jpg',
+                'MC006_大王廟_黑沙村_20201012_F2.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
@@ -249,7 +264,10 @@ export const coloaneProperties = [
             "name": "觀音古廟（路環）",
             "id": "MC007",
             "address": "位於大廟巷",
-            "images": [],
+            "images": [
+                'MC007_觀音古廟(路環)_大廟巷_20201012_F1.jpg',
+                'MC007_觀音古廟(路環)_大廟巷_20201012_F2.jpg'
+            ],
             "numFaces": 2
         },
         "geometry": {
