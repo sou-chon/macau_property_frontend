@@ -1,15 +1,8 @@
 import React, { FunctionComponent as FC, useEffect, useState } from 'react';
 import style from './mapNav.module.css';
+import { maps_enum } from '../placeList/placeList';
 
-const maps_enum = {
-    macau: '0',
-    taipa: '1',
-    coloane: '2' 
-};
-
-export const MapNav: FC = () => {
-    const [currentMap, setCurrentMap] = useState(maps_enum.macau);
-
+export const MapNav: FC<{ setCurrentMap: any, currentMap: string }> = ({ currentMap, setCurrentMap }) => {
     return (
         <div>
             <div className={style.main_map_button_container}>
@@ -99,7 +92,7 @@ export const MapNav: FC = () => {
                         className={style.quick_nav_button}
                         onClick={() => {
                             switchToMap(maps_enum.taipa);
-                            window.map_taipa.setView([80, 321], 5);
+                            window.map_taipa.setView([-30, 104.88], 5);
                             setCurrentMap(maps_enum.taipa);
                         }}
                     >
@@ -109,7 +102,7 @@ export const MapNav: FC = () => {
                         className={style.quick_nav_button}
                         onClick={() => {
                             switchToMap(maps_enum.taipa);
-                            window.map_taipa.setView([68, 227], 5);
+                            window.map_taipa.setView([-54.5, 38.2], 5);
                             setCurrentMap(maps_enum.taipa);
                         }}
                     >
@@ -119,7 +112,7 @@ export const MapNav: FC = () => {
                         className={style.quick_nav_button}
                         onClick={() => {
                             switchToMap(maps_enum.coloane);
-                            window.map_coloane.setView([58, 196], 6);
+                            window.map_coloane.setView([-78.1, 23.56], 5);
                             setCurrentMap(maps_enum.coloane);
                         }}
                     >
@@ -129,7 +122,7 @@ export const MapNav: FC = () => {
                         className={style.quick_nav_button}
                         onClick={() => {
                             switchToMap(maps_enum.coloane);
-                            window.map_coloane.setView([64, 266], 6);
+                            window.map_coloane.setView([-64, 66.45], 6);
                             setCurrentMap(maps_enum.coloane);
                         }}
                     >
@@ -139,7 +132,7 @@ export const MapNav: FC = () => {
                         className={style.quick_nav_button}
                         onClick={() => {
                             switchToMap(maps_enum.coloane);
-                            window.map_coloane.setView([79, 329], 6);
+                            window.map_coloane.setView([-28, 108.3], 6);
                             setCurrentMap(maps_enum.coloane);
                         }}
                     >
@@ -151,7 +144,7 @@ export const MapNav: FC = () => {
     );
 };
 
-function switchToMap(mapNum: string) {
+export function switchToMap(mapNum: string) {
     switch (mapNum) {
         case maps_enum.macau:
             window.map_macau_container.classList.remove('map_hidden');

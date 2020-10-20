@@ -1,6 +1,7 @@
 import React, { Component as C } from 'react';
 import L from 'leaflet';
 
+import { taipaProperties } from '../../data/geoJSONData_taipa';
 export class TaipaMap extends C {
     componentDidMount() {
         const map = L.map('map_taipa', {
@@ -25,6 +26,72 @@ export class TaipaMap extends C {
         map.on('click', function(e: any) {
             console.log(`[${e.latlng.lng}, ${e.latlng.lat}],`);
         });
+
+        /* adding geojson */
+        function highlightFeature(e: any) {
+            var layer = e.target;
+            console.log(layer.feature.properties);
+
+            layer.setStyle({
+                weight: 5,
+                color: '#666',
+                dashArray: '',
+                fillOpacity: 0.7
+            });
+
+            if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                layer.bringToFront();
+            }
+
+            window.place_info_div.innerHTML = `${layer.feature.properties.id} - ${layer.feature.properties.name}`
+        }
+
+        function openImageDisplay(e: any) {
+            const placeID = e.target.feature.properties.id;
+            window._history.push(`/${placeID}/1`);
+        }
+
+        function onEachFeature(feature: any, layer: any) {
+            layer.on({
+                mouseover: highlightFeature,
+                mouseout: resetHighlight,
+                click: zoomToFeature,
+                dblclick: openImageDisplay
+            });
+            const { properties: { name, id, faces } } = feature;
+            layer.bindPopup(L.popup({ minWidth: 200 }).setContent(`
+                <div>
+                    <b>${name}</b>
+                    <br/>${id}<br/>
+                    <span class='more_photo_button' 
+                    onclick='(function display(){
+                        window._history.push("/${id}/1");
+                    })()'
+                    }">Show photos</span>
+                </div>`)
+            );
+        }
+
+        function resetHighlight(e: any) {
+            geojson.resetStyle(e.target);
+            window.place_info_div.innerHTML = 'Hover over to give info';
+            //window.face_arrows[e.target.feature.properties.id].remove();
+        }
+
+        function zoomToFeature(e: any) {
+            console.log(e.target.feature.properties.id);
+            map.fitBounds(e.target.getBounds().pad(1.5));
+        }
+
+        const geojson = L.geoJSON(taipaProperties as any, {
+            style: function(feature: any) {
+                //switch (feature.properties.party) {
+                return ({color: "#0033cc"});
+                    //case 'Democrat':   return {color: "#0000ff"};
+            },
+            onEachFeature
+        }).addTo(map);
+        window.geojson_taipa = geojson;
     }
 
     render() {

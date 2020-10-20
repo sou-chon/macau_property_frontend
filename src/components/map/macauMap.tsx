@@ -63,21 +63,17 @@ export class MacauMap extends C {
                 dblclick: openImageDisplay
             });
             const { properties: { name, id, faces } } = feature;
-            //layer.bindPopup(L.popup({ minWidth: 200 }).setContent(`
-            //    <div>
-            //        <b>${name}</b>
-            //        <br/>${id}<br/>
-            //        <span class='more_photo_button' 
-            //        onclick='(function display(){
-            //            window._history.push("/${id}");
-            //        })()'
-            //        }">Show photos</span>
-            //    </div>`)
-            //);
-            //window.face_arrows[id] = L.layerGroup(
-            //    faces.map((el: any, ind: number) =>
-            //        L.polygon(makeArrow(el.arrowCentre, 0.3, el.rotation) as any, {color: 'red', fillOpacity: 1}).bindTooltip(`F${ind}`, { opacity: 1, permanent: true, className: 'myCSSClass', offset: calculateTextOffset(el.rotation) as any})
-            //));
+            layer.bindPopup(L.popup({ minWidth: 200 }).setContent(`
+                <div>
+                    <b>${name}</b>
+                    <br/>${id}<br/>
+                    <span class='more_photo_button' 
+                    onclick='(function display(){
+                        window._history.push("/${id}/1");
+                    })()'
+                    }">Show photos</span>
+                </div>`)
+            );
         }
 
         function resetHighlight(e: any) {
@@ -100,8 +96,6 @@ export class MacauMap extends C {
             onEachFeature
         }).addTo(map);
         window.geojson_macau = geojson;
-        //const square = [[50, 221], [51, 221], [51, 220], [50, 220]].map(el => map.unproject(el as any, 5));
-        //L.polygon(square as any, {color: 'red', fillOpacity: 1}).addTo(map);
     }
 
     render() {

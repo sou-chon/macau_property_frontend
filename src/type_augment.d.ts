@@ -12,6 +12,7 @@ interface IPlaceDataProperties {
     images: string[];
     numFaces: number;
     address: string;
+    island: string;
 }
 
 interface IPlaceDataGeometry {
@@ -32,6 +33,8 @@ declare global {
         face_arrows: any;
         data_hash: { [id: string]: IPlaceData };
         geojson_macau: any;
+        geojson_taipa: any;
+        geojson_coloane: any;
     };
 }
 
