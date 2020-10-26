@@ -19,7 +19,7 @@ function MyApp() {
             <ColoaneMap/>
             <Router history={history}>
                 <Switch>
-                    <Route path='/:placeID/:faceID' component={ImageDisplay}/>
+                    <Route path='/:placeID/:year?/:faceID?/' component={ImageDisplay}/>
                     <Route path='/' render={() => <></>}/>
                 </Switch>
             </Router>

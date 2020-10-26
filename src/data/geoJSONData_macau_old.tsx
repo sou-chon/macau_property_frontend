@@ -8,27 +8,10 @@ export const macauProperties = [
             "id": "MM001",
             "address": "位於崗頂前地",
             "images": [
-                {
-                    "imageFileName": "MM001_聖奧斯定堂_崗頂前地_20200811_T",
-                    "faceName": "Top",
-                    "year": 2019 
-                },
-                {
-                    "imageFileName": "MM001_聖奧斯定堂_崗頂前地_20200811_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM001_聖奧斯定堂_崗頂前地_20200811_F2",
-                    "faceName": "F2",
-                    "year": 2021
-                },
-                {
-                    "imageFileName": "MM001_聖奧斯定堂_崗頂前地_20200811_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                }
-            ]
+                'MM001_聖奧斯定堂_崗頂前地_20200811_F1.jpg',
+                'MM001_聖奧斯定堂_崗頂前地_20200811_T.jpg'
+            ],
+            "numFaces": 3
         },
         "geometry": {
             "type": "Polygon",
@@ -79,27 +62,11 @@ export const macauProperties = [
             "id": "MM002",
             "address": "位於花王堂前地",
             "images": [
-                {
-                    "imageFileName": "MM002_聖安多尼堂(花王)_花王堂前地_20200911_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM002_聖安多尼堂(花王)_花王堂前地_20200911_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM002_聖安多尼堂(花王)_花王堂前地_20200911_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM002_聖安多尼堂(花王)_花王堂前地_20200911_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                }
-            ]
+                'MM002_聖安多尼堂(花王)_花王堂前地_20200911_F1.jpg',
+                'MM002_聖安多尼堂(花王)_花王堂前地_20200911_F2.jpg',
+                'MM002_聖安多尼堂(花王)_花王堂前地_20200911_F3.jpg'
+            ],
+            "numFaces": 3
         },
         "geometry": {
             "type": "Polygon",
@@ -170,22 +137,11 @@ export const macauProperties = [
             "id": "MM003",
             "address": "位於板樟堂前地",
             "images": [
-                {
-                    "imageFileName": "MM003_玫瑰聖母堂_板樟堂前地_0904_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM003_玫瑰聖母堂_板樟堂前地_0904_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM003_玫瑰聖母堂_板樟堂前地_0904_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                }
-            ]
+                'MM003_玫瑰聖母堂_板樟堂前地_0904_F1.jpg',
+                'MM003_玫瑰聖母堂_板樟堂前地_0904_F2.jpg',
+                'MM003_玫瑰聖母堂_板樟堂前地_0904_T.jpg'
+            ],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -280,22 +236,9 @@ export const macauProperties = [
             "id": "MM004",
             "address": "位於聖母堂前地",
             "images": [
-                {
-                    "imageFileName": "MM004_望德聖母堂及前地_聖母堂前地_0924_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM004_望德聖母堂及前地_聖母堂前地_0924_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM004_望德聖母堂及前地_聖母堂前地_0924_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                }
-            ]
+                'MM004_望德聖母堂及前地_聖母堂前地_0924_T.jpg'
+            ],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -370,37 +313,12 @@ export const macauProperties = [
             "id": "MM005",
             "address": "位於風順堂街",
             "images": [
-                {
-                    "imageFileName": "MM005_聖老楞佐堂及前地_風順堂街_20200928_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM005_聖老楞佐堂及前地_風順堂街_20200928_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM005_聖老楞佐堂及前地_風順堂街_20200928_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM005_聖老楞佐堂及前地_風順堂街_20200928_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM005_聖老楞佐堂及前地_風順堂街_20200928_F4",
-                    "faceName": "F4",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM005_聖老楞佐堂及前地_風順堂街_20200928_F5",
-                    "faceName": "F5",
-                    "year": 2020
-                }
-            ]
+                'MM005_聖老楞佐堂及前地_F2.jpg',
+                'MM005_聖老楞佐堂及前地_F3.jpg',
+                'MM005_聖老楞佐堂及前地_F5.jpg',
+                'MM005_聖老楞佐堂及前地_風順堂街_20200928_T.jpg'
+            ],
+            "numFaces": 5
         },
         "geometry": {
             "type": "Polygon",
@@ -515,22 +433,10 @@ export const macauProperties = [
             "id": "MM006",
             "address": "位於大堂前地",
             "images": [
-                {
-                    "imageFileName": "MM006_主教座堂_大堂前地_20200904_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM006_主教座堂_大堂前地_20200904_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM006_主教座堂_大堂前地_20200904_D1",
-                    "faceName": "D1",
-                    "year": 2020
-                }
-            ]
+                'MM006_主教座堂_大堂前地_20200904_F1.jpg',
+                'MM006_主教座堂_大堂前地_20200904_T.jpg'
+            ],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -613,27 +519,12 @@ export const macauProperties = [
             "id": "MM007",
             "address": "位於三巴仔橫街",
             "images": [
-                {
-                    "imageFileName": "MM007_聖若瑟修院教堂_20200928_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM007_聖若瑟修院教堂_20200928_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM007_聖若瑟修院教堂_20200928_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM007_聖若瑟修院教堂_20200928_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                }
-            ]
+                'MM007_聖若瑟修院教堂,前地及石階_三巴仔橫街_20200928_F1.jpg',
+                'MM007_聖若瑟修院教堂,前地及石階_三巴仔橫街_20200928_F2.jpg',
+                'MM007_聖若瑟修院教堂,前地及石階_三巴仔橫街_20200928_F3.jpg',
+                'MM007_聖若瑟修院教堂,前地及石階_三巴仔橫街_20200928_T.jpg'
+            ],
+            "numFaces": 3
         },
         "geometry": {
             "type": "Polygon",
@@ -740,42 +631,13 @@ export const macauProperties = [
             "id": "MM008",
             "address": "位於耶穌會紀念廣場",
             "images": [
-                {
-                    "imageFileName": "MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F4",
-                    "faceName": "F4",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F5",
-                    "faceName": "F5",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F6",
-                    "faceName": "F6",
-                    "year": 2020
-                }
-            ]
+                'MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F1.jpg',
+                'MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F2.jpg',
+                'MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F3.jpg',
+                'MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F4.jpg',
+                'MM008_聖保祿學院天主之母教堂遺址(大三巴牌坊、前地及石階)_耶穌會紀念廣場_20200915_F5.jpg',
+            ],
+            "numFaces": 6
         },
         "geometry": {
             "type": "Polygon",
@@ -826,17 +688,9 @@ export const macauProperties = [
             "id": "MM009",
             "address": "位於望廈炮台斜坡",
             "images": [
-                {
-                    "imageFileName": "MM009_望廈炮台_位於望廈炮台斜坡_20200923_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM009_望廈炮台_位於望廈炮台斜坡_20200923_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+                'MM009_望廈炮台_位於望廈炮台斜坡_20200923_T.jpg'
+            ],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -894,33 +748,8 @@ export const macauProperties = [
             "name": "燒灰爐炮台",
             "id": "MM010",
             "address": "位於民國大馬路",
-            "images": [
-                {
-                    "imageFileName": "MM010_燒灰爐炮台_民國大馬路_20200925_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM010_燒灰爐炮台_民國大馬路_20200925_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM010_燒灰爐炮台_民國大馬路_20200925_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM010_燒灰爐炮台_民國大馬路_20200925_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM010_燒灰爐炮台_民國大馬路_20200925_F4",
-                    "faceName": "F4",
-                    "year": 2020
-                }
-            ]
+            "images": [],
+            "numFaces": 4
         },
         "geometry": {
             "type": "Polygon",
@@ -982,7 +811,8 @@ export const macauProperties = [
             "name": "東望洋炮台、聖母雪地殿教堂及燈塔",
             "id": "MM011",
             "address": "位於東望洋山",
-            "images": []
+            "images": [],
+            "numFaces": 4
         },
         "geometry": {
             "type": "Polygon",
@@ -1061,22 +891,9 @@ export const macauProperties = [
             "id": "MM012",
             "address": "位於炮兵馬路",
             "images": [
-                {
-                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20200925_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20200925_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20200925_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                }
-            ]
+                'MM012_大炮台(中央炮台)_炮兵馬路_20200925_T.jpg'
+            ],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -1187,17 +1004,9 @@ export const macauProperties = [
             "id": "MM013",
             "address": "位於媽閣上街",
             "images": [
-                {
-                    "imageFileName": "MM013_聖地牙哥炮台_媽閣上街_20200925_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM013_聖地牙哥炮台_媽閣上街_20200925_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+                'MM013_聖地牙哥炮台_媽閣上街_20200925_T.jpg'
+            ],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -1292,17 +1101,10 @@ export const macauProperties = [
             "id": "MM014",
             "address": "位於馬交石炮台馬路",
             "images": [
-                {
-                    "imageFileName": "MM014_馬交石炮台_馬交石炮台馬路_20201016_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM014_馬交石炮台_馬交石炮台馬路_20201016_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+                'MM014_馬交石炮台_馬交石炮台馬路_20201016_F1.jpg',
+                'MM014_馬交石炮台_馬交石炮台馬路_20201016_T.jpg'
+            ],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -1361,42 +1163,10 @@ export const macauProperties = [
             "id": "MM015",
             "address": "位於加思欄馬路",
             "images": [
-                {
-                    "imageFileName": "MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_D1",
-                    "faceName": "D1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_D2",
-                    "faceName": "D2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_D3",
-                    "faceName": "D3",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_D4",
-                    "faceName": "D4",
-                    "year": 2020
-                }
-            ]
+                'MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_F1.jpg',
+                'MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_T.jpg'
+            ],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -1567,22 +1337,11 @@ export const macauProperties = [
             "id": "MM016",
             "address": "位於關閘廣場",
             "images": [
-                {
-                    "imageFileName": "MM016_關閘拱門_關閘廣場_20201008_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM016_關閘拱門_關閘廣場_20201008_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM016_關閘拱門_關閘廣場_20201008_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                }
-            ]
+                'MM016_關閘拱門_關閘廣場_20201008_F1.jpg',
+                'MM016_關閘拱門_關閘廣場_20201008_F2.jpg',
+                'MM016_關閘拱門_關閘廣場_20201008_T.jpg'
+            ],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -1617,32 +1376,11 @@ export const macauProperties = [
             "id": "MM017",
             "address": "位於南灣馬路",
             "images": [
-                {
-                    "imageFileName": "MM017_政府總部_南灣大馬路_20201008_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM017_政府總部_南灣大馬路_20201008_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM017_政府總部_南灣大馬路_20201008_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM017_政府總部_南灣大馬路_20201008_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM017_政府總部_南灣大馬路_20201008_F4",
-                    "faceName": "F4",
-                    "year": 2020
-                }
-            ]
+                'MM017_政府總部_南灣大馬路_20201008_F1.jpg',
+                'MM017_政府總部_南灣大馬路_20201008_F2.jpg',
+                'MM017_政府總部_南灣大馬路_20201008_F3.jpg'
+            ],
+            "numFaces": 4
         },
         "geometry": {
             "type": "Polygon",
@@ -1685,32 +1423,12 @@ export const macauProperties = [
             "id": "MM018",
             "address": "位於亞美打庇盧大馬路／新馬路163號",
             "images": [
-                {
-                    "imageFileName": "MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F4",
-                    "faceName": "F4",
-                    "year": 2020
-                }
-            ]
+                'MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F1.jpg',
+                'MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F3.jpg',
+                'MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F4.jpg',
+                'MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F5.jpg'
+            ],
+            "numFaces": 5
         },
         "geometry": {
             "type": "Polygon",
@@ -1765,27 +1483,10 @@ export const macauProperties = [
             "id": "MM019",
             "address": "位於議事亭前地16號",
             "images": [
-                {
-                    "imageFileName": "MM019_仁慈堂大樓_議事亭前地16號_20200907_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM019_仁慈堂大樓_議事亭前地16號_20200907_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM019_仁慈堂大樓_議事亭前地16號_20200907_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM019_仁慈堂大樓_議事亭前地16號_20200907_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                }
-            ]
+                'MM019_仁慈堂大樓_議事亭前地16號_20200907_F1.jpg',
+                'MM019_仁慈堂大樓_議事亭前地16號_20200907_F2.jpg'
+            ],
+            "numFaces": 3
         },
         "geometry": {
             "type": "Polygon",
@@ -1820,37 +1521,12 @@ export const macauProperties = [
             "id": "MM020",
             "address": "位於媽閣廟前地",
             "images": [
-                {
-                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_T",
-                    "faceName": "Top",
-                    "year": 2021
-                },
-                {
-                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F1",
-                    "faceName": "F1",
-                    "year": 2019
-                },
-                {
-                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F4",
-                    "faceName": "F4",
-                    "year": 2019
-                },
-                {
-                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D1",
-                    "faceName": "D1",
-                    "year": 2020
-                }
-            ]
+                'MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F1.jpg',
+                'MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F2.jpg',
+                'MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F3.jpg',
+                'MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F4.jpg'
+            ],
+            "numFaces": 4
         },
         "geometry": {
             "type": "Polygon",
@@ -1996,28 +1672,8 @@ export const macauProperties = [
             "name": "康真君廟（康公廟）",
             "id": "MM021",
             "address": "位於康公廟前地",
-            "images": [
-                {
-                    "imageFileName": "MM021_康真君廟(康公廟)_康公廟前地_20200917_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM021_康真君廟(康公廟)_康公廟前地_20200917_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM021_康真君廟(康公廟)_康公廟前地_20200917_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM021_康真君廟(康公廟)_康公廟前地_20200917_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                }
-            ]
+            "images": [],
+            "numFaces": 3
         },
         "geometry": {
             "type": "Polygon",
@@ -2087,28 +1743,8 @@ export const macauProperties = [
             "name": "觀音古廟（觀音仔）",
             "id": "MM022",
             "address": "位於美副將大馬路",
-            "images": [
-                {
-                    "imageFileName": "MM022_觀音古廟(觀音仔)_美副將大馬路_20200923_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM022_觀音古廟(觀音仔)_美副將大馬路_20200923_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM022_觀音古廟(觀音仔)_美副將大馬路_20200923_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM022_觀音古廟(觀音仔)_美副將大馬路_20200923_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                }
-            ]
+            "images": [],
+            "numFaces": 3
         },
         "geometry": {
             "type": "Polygon",
@@ -2143,27 +1779,10 @@ export const macauProperties = [
             "id": "MM023",
             "address": "位於美副將大馬路",
             "images": [
-                {
-                    "imageFileName": "MM023_普濟禪院(觀音堂)_美副將大馬路_20200923_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM023_普濟禪院(觀音堂)_美副將大馬路_20200923_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM023_普濟禪院(觀音堂)_美副將大馬路_20200923_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM023_普濟禪院(觀音堂)_美副將大馬路_20200923_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                }
-            ]
+                'MM023_普濟禪院(觀音堂)_美副將大馬路_20200923_F1.jpg',
+                'MM023_普濟禪院(觀音堂)_美副將大馬路_20200923_T.jpg'
+            ],
+            "numFaces": 3
         },
         "geometry": {
             "type": "Polygon",
@@ -2265,23 +1884,8 @@ export const macauProperties = [
             "name": "蓮峯廟",
             "id": "MM024",
             "address": "位於罅些喇提督大馬路／提督馬路",
-            "images": [
-                {
-                    "imageFileName": "MM024_蓮峯廟_罅些喇提督大馬路_20201008_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM024_蓮峯廟_罅些喇提督大馬路_20201008_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM024_蓮峯廟_罅些喇提督大馬路_20201008_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                }
-            ]
+            "images": [],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -2392,22 +1996,9 @@ export const macauProperties = [
             "id": "MM025",
             "address": "位於哪咤廟斜巷",
             "images": [
-                {
-                    "imageFileName": "MM025_哪咤古廟(柿山)_哪咤古廟_20200907_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM025_哪咤古廟(柿山)_哪咤古廟_20200907_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM025_哪咤古廟(柿山)_哪咤古廟_20200907_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                }
-            ]
+                'MM025_哪咤古廟(柿山)_哪咤古廟_20200907_F1.jpg'
+            ],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -2458,22 +2049,10 @@ export const macauProperties = [
             "id": "MM026",
             "address": "位於聖方濟各斜巷／大三巴斜巷",
             "images": [
-                {
-                    "imageFileName": "MM026_哪咤廟(大三巴)_聖方濟各斜巷_大三巴斜巷_20200925_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM026_哪咤廟(大三巴)_聖方濟各斜巷_大三巴斜巷_20200925_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM026_哪咤廟(大三巴)_聖方濟各斜巷_大三巴斜巷_20200925_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                }
-            ]
+                'MM026_哪咤廟(大三巴)_聖方濟各斜巷_大三巴斜巷_20200925_F1.jpg',
+                'MM026_哪咤廟(大三巴)_聖方濟各斜巷_大三巴斜巷_20200925_F2.jpg'
+            ],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -2508,27 +2087,9 @@ export const macauProperties = [
             "id": "MM027",
             "address": "位於福慶街",
             "images": [
-                {
-                    "imageFileName": "MM027_南山,包公,醫靈,呂祖仙院_福慶街_20200915_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM027_南山,包公,醫靈,呂祖仙院_福慶街_20200915_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM027_南山,包公,醫靈,呂祖仙院_福慶街_20200915_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM027_南山,包公,醫靈,呂祖仙院_福慶街_20200915_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                }
-            ]
+                'MM027_南山,包公,醫靈,呂祖仙院_福慶街_20200915_F2.jpg'
+            ],
+            "numFaces": 3
         },
         "geometry": {
             "type": "Polygon",
@@ -2587,27 +2148,10 @@ export const macauProperties = [
             "id": "MM028",
             "address": "位於大纜巷",
             "images": [
-                {
-                    "imageFileName": "MM028_蓮溪新廟_大纜巷_20200928_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM028_蓮溪新廟_大纜巷_20200928_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM028_蓮溪新廟_大纜巷_20200928_D1",
-                    "faceName": "D1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM028_蓮溪新廟_大纜巷_20200928_D2",
-                    "faceName": "D2",
-                    "year": 2020
-                }
-            ]
+                'MM028_蓮溪新廟_大纜巷_20200928_F1.jpg',
+                'MM028_蓮溪新廟_大纜巷_20200928_F2.jpg'
+            ],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -2650,22 +2194,10 @@ export const macauProperties = [
             "id": "MM029",
             "address": "位於白灰街",
             "images": [
-                {
-                    "imageFileName": "MM029_仁德堂公所(魯班師傅廟)_白灰街_20200924_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM029_仁德堂公所(魯班師傅廟)_白灰街_20200924_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM029_仁德堂公所(魯班師傅廟)_白灰街_20200924_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                }
-            ]
+                'MM029_仁德堂公所(魯班師傅廟)_白灰街_20200924_F1.jpg',
+                'MM029_仁德堂公所(魯班師傅廟)_白灰街_20200924_F2.jpg'
+            ],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -2699,18 +2231,8 @@ export const macauProperties = [
             "name": "天后古廟",
             "id": "MM030",
             "address": "位於漁翁街",
-            "images": [
-                {
-                    "imageFileName": "MM030_天后古廟_漁翁街_20201016_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM030_天后古廟_漁翁街_20201016_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+            "images": [],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -2797,22 +2319,10 @@ export const macauProperties = [
             "id": "MM031",
             "address": "位於公局新市南街",
             "images": [
-                {
-                    "imageFileName": "MM031_三街會館(關帝古廟)_公局新市南街_20200907_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM031_三街會館(關帝古廟)_公局新市南街_20200907_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM031_三街會館(關帝古廟)_公局新市南街_20200907_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                }
-            ]
+                'MM031_三街會館(關帝古廟)_公局新市南街_20200907_F1.jpg',
+                'MM031_三街會館(關帝古廟)_公局新市南街_20200907_F2.jpg'
+            ],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -2847,17 +2357,9 @@ export const macauProperties = [
             "id": "MM032",
             "address": "位於麻子街",
             "images": [
-                {
-                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20200923_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20200923_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+                'MM032_土地古廟(沙梨頭)_麻子街_20200923_F1.jpg'
+            ],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -2964,17 +2466,9 @@ export const macauProperties = [
             "id": "MM033",
             "address": "位於聖方濟各斜巷／大三巴斜巷",
             "images": [
-                {
-                    "imageFileName": "MM033_城牆遺跡(聖方濟各斜巷一段)_聖方濟各斜巷_大三巴斜巷_20200915_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM033_城牆遺跡(聖方濟各斜巷一段)_聖方濟各斜巷_大三巴斜巷_20200915_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+                'MM033_城牆遺跡(聖方濟各斜巷一段)_聖方濟各斜巷_大三巴斜巷_20200915_F1.jpg'
+            ],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -3009,17 +2503,9 @@ export const macauProperties = [
             "id": "MM034",
             "address": "位於白鴿巢公園",
             "images": [
-                {
-                    "imageFileName": "MM034_賈梅士洞_白鴿巢公園_20200915_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM034_賈梅士洞_白鴿巢公園_20200915_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+                'MM034_賈梅士洞_白鴿巢公園_20200915_F1.jpg'
+            ],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -3074,17 +2560,9 @@ export const macauProperties = [
             "id": "MM035",
             "address": "位於拱形馬路／關閘馬路",
             "images": [
-                {
-                    "imageFileName": "MM035_刻有葡國徽號的石塊(蓮峯廟旁)_拱形馬路_關閘馬路_20201008_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM035_刻有葡國徽號的石塊(蓮峯廟旁)_拱形馬路_關閘馬路_20201008_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+                'MM035_刻有葡國徽號的石塊(蓮峯廟旁)_拱形馬路_關閘馬路_20201008_F1.jpg'
+            ],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -3130,13 +2608,8 @@ export const macauProperties = [
             "name": "刻有葡國徽號的石塊（望廈馬交石斜坡旁）",
             "id": "MM036",
             "address": "位於馬交石斜坡／黑沙環斜路",
-            "images": [
-                {
-                    "imageFileName": "MM036_刻有葡國徵號的石塊(望廈馬交石斜坡旁)_馬交石斜坡_黑沙環斜路_20200923_T",
-                    "faceName": "Top",
-                    "year": 2020
-                }
-            ]
+            "images": [],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -3170,7 +2643,11 @@ export const macauProperties = [
             "name": "雀仔園福德祠",
             "id": "MM037",
             "address": "位於澳門馬大臣街與羅憲新街交界",
-            "images": []
+            "images": [
+                'MM0037_雀仔園福德祠_澳門馬大臣街與羅憲新街交界_20200830_F1.jpg',
+                'MM0037_雀仔園福德祠_澳門馬大臣街與羅憲新街交界_20200830_F2.jpg'
+            ],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -3205,17 +2682,9 @@ export const macauProperties = [
             "id": "MM038",
             "address": "位於澳門大碼頭街",
             "images": [
-                {
-                    "imageFileName": "MM038_福德祠(大碼頭街)_澳門大碼頭街_20200917_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM038_福德祠(大碼頭街)_澳門大碼頭街_20200917_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+                'MM038_福德祠(大碼頭街)_澳門大碼頭街_20200917_F1.jpg'
+            ],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -3250,17 +2719,9 @@ export const macauProperties = [
             "id": "MM039",
             "address": "位於澳門石牆街34號",
             "images": [
-                {
-                    "imageFileName": "MM039_福德祠(石牆街)_澳門石牆街34街_20200923_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM039_福德祠(石牆街)_澳門石牆街34街_20200923_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+                'MM039_福德祠(石牆街)_澳門石牆街34街_20200923_F1.jpg'
+            ],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -3295,17 +2756,9 @@ export const macauProperties = [
             "id": "MM040",
             "address": "位於澳門河邊新街131號",
             "images": [
-                {
-                    "imageFileName": "MM040_福德祠(河邊新街)_澳門河邊新街131號_20200923_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM040_福德祠(河邊新街)_澳門河邊新街131號_20200923_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+                'MM040_福德祠(河邊新街)_澳門河邊新街131號_20200923_F1.jpg'
+            ],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -3339,13 +2792,8 @@ export const macauProperties = [
             "name": "城牆遺跡，近澳門加思欄馬路",
             "id": "MM041-1",
             "address": "",
-            "images": [
-                {
-                    "imageFileName": "MM041-1_城牆遺跡_近加思欄馬路_20200915_T",
-                    "faceName": "Top",
-                    "year": 2020
-                }
-            ]
+            "images": [],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -3395,13 +2843,8 @@ export const macauProperties = [
             "name": "城牆遺跡，近澳門若憲馬路",
             "id": "MM041-2",
             "address": "",
-            "images": [
-                {
-                    "imageFileName": "MM041-2_城牆遺跡_近若憲馬路_20200924_T",
-                    "faceName": "Top",
-                    "year": 2020
-                }
-            ]
+            "images": [],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -3436,27 +2879,11 @@ export const macauProperties = [
             "id": "MM041-3",
             "address": "",
             "images": [
-                {
-                    "imageFileName": "MM041-3_城牆遺址_近西望洋聖堂_20200925_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM041-3_城牆遺址_近西望洋聖堂_20200925_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM041-3_城牆遺址_近西望洋聖堂_20200925_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM041-3_城牆遺址_近西望洋聖堂_20200925_F3",
-                    "faceName": "F3",
-                    "year": 2020
-                }
-            ]
+                'MM041-3_城牆遺址_近西望洋聖堂_20200925_F1.jpg',
+                'MM041-3_城牆遺址_近西望洋聖堂_20200925_F2.jpg',
+                'MM041-3_城牆遺址_近西望洋聖堂_20200925_F3.jpg'
+            ],
+            "numFaces": 3
         },
         "geometry": {
             "type": "Polygon",
@@ -3490,23 +2917,8 @@ export const macauProperties = [
             "name": "中西藥局舊址",
             "id": "MM042",
             "address": "位於澳門草堆街80號",
-            "images": [
-                {
-                    "imageFileName": "MM042_中西藥局舊址_澳門草堆街_20200916_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM042_中西藥局舊址_澳門草堆街_20200916_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM042_中西藥局舊址_澳門草堆街_20200916_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                }
-            ]
+            "images": [],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -3548,23 +2960,8 @@ export const macauProperties = [
             "name": "葉挻將軍故居",
             "id": "MM043",
             "address": "位於澳門賈伯樂提督街76號",
-            "images": [
-                {
-                    "imageFileName": "MM043_葉挺將軍故居_澳門賈伯樂提督街76號_20200914_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM043_葉挺將軍故居_澳門賈伯樂提督街76號_20200914_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM043_葉挺將軍故居_澳門賈伯樂提督街76號_20200914_F2",
-                    "faceName": "F2",
-                    "year": 2020
-                }
-            ]
+            "images": [],
+            "numFaces": 2
         },
         "geometry": {
             "type": "Polygon",
@@ -3598,18 +2995,8 @@ export const macauProperties = [
             "name": "更館（沙梨頭）",
             "id": "MM044",
             "address": "位於澳門麻子街52-54號",
-            "images": [
-                {
-                    "imageFileName": "MM044_更館(沙梨頭)_澳門麻子街52-54號_20200924_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM044_更館(沙梨頭)_澳門麻子街52-54號_20200924_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+            "images": [],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -3643,18 +3030,8 @@ export const macauProperties = [
             "name": "先鋒廟",
             "id": "MM045",
             "address": "位於鄰近澳門連勝巷的土地",
-            "images": [
-                {
-                    "imageFileName": "MM045_先鋒廟_鄰近澳門連勝巷的土地_20200922_T",
-                    "faceName": "Top",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "MM045_先鋒廟_鄰近澳門連勝巷的土地_20200922_F1",
-                    "faceName": "F1",
-                    "year": 2020
-                }
-            ]
+            "images": [],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -3688,7 +3065,8 @@ export const macauProperties = [
             "name": "聖保祿學院遺址（圍牆遺跡，高園街一段）",
             "id": "MM046",
             "address": "位於澳門高園街35號",
-            "images": []
+            "images": [],
+            "numFaces": 1
         },
         "geometry": {
             "type": "Polygon",
@@ -3714,4 +3092,4 @@ export const macauProperties = [
             ]
         }
     }
-]
+];

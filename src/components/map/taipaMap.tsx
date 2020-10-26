@@ -48,7 +48,7 @@ export class TaipaMap extends C {
 
         function openImageDisplay(e: any) {
             const placeID = e.target.feature.properties.id;
-            window._history.push(`/${placeID}/1`);
+            window._history.push(`/${placeID}`);
         }
 
         function onEachFeature(feature: any, layer: any) {
@@ -65,7 +65,7 @@ export class TaipaMap extends C {
                     <br/>${id}<br/>
                     <span class='more_photo_button' 
                     onclick='(function display(){
-                        window._history.push("/${id}/1");
+                        window._history.push("/${id}");
                     })()'
                     }">Show photos</span>
                 </div>`)

@@ -29,16 +29,18 @@
         "placeInfo images"
 }
 
+.image_display img {
+    width: 100%;
+    /*height: 100%;*/
+    object-fit: cover;
+}
+
 .face_image {
     grid-area: faceImage;
     width: 100%;
     height: 100%;
-}
-
-.face_image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    background-color: #f5f5f5;
+    overflow: hidden;
 }
 
 .place_info {
@@ -58,7 +60,7 @@
     background-color: #f5f5f5;
 }
 
-.face_selection button {
+.image_display button {
     display: inline-block;
     height: 50px;
     line-height: 50px;
@@ -68,17 +70,15 @@
 }
 
 .images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
     grid-area: images;
-    padding: 1rem 0.5rem;
+    padding: 1rem;
+    background-color: #f9f9f9;
     width: 100%;
     height: 100%;
     overflow: auto;
-}
-
-.images img {
-    object-fit: cover;
-    width: 100%;
-    cursor: pointer;
 }
 
 .close_button {
@@ -99,4 +99,45 @@
 .face_button:hover {
     background-color: grey;
     transition: background-color 0.2s ease-in-out;
+}
+
+.thumbnail {
+    width: 275px;
+    height: 325px;
+    /*background-color: green;*/
+    margin: 1rem;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+    overflow: hidden;
+    cursor: pointer;
+    background-color: white;
+}
+
+.thumbnail:hover {
+    background-color: rgb(240, 240, 240);
+}
+
+.thumbnail > div:first-child {
+    height: 275px;
+    width: 275px;
+    overflow: hidden;
+}
+
+.thumbnail > div:last-child {
+    height: 50px;
+    width: 275px;
+    line-height: 50px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.big_image {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    grid-area: images;
+    cursor: pointer;
 }

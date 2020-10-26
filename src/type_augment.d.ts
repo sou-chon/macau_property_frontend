@@ -6,13 +6,20 @@ interface IPlaceData {
     geometry: IPlaceDataGeometry;
 }
 
+interface IImage {
+    imageFileName: string;
+    thumbnailFileName: string;
+    faceName: string;
+    year: number;
+}
+
 interface IPlaceDataProperties {
     name: string;
     id: string;
-    images: string[];
-    numFaces: number;
+    images: IImage[];
     address: string;
     island: string;
+    category: string;
 }
 
 interface IPlaceDataGeometry {

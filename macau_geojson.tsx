@@ -1,4 +1,4 @@
-export const macauProperties = [
+[
     {
         "type": "Feature",
         "properties": {
@@ -11,7 +11,7 @@ export const macauProperties = [
                 {
                     "imageFileName": "MM001_聖奧斯定堂_崗頂前地_20200811_T",
                     "faceName": "Top",
-                    "year": 2019 
+                    "year": 2020
                 },
                 {
                     "imageFileName": "MM001_聖奧斯定堂_崗頂前地_20200811_F1",
@@ -21,7 +21,7 @@ export const macauProperties = [
                 {
                     "imageFileName": "MM001_聖奧斯定堂_崗頂前地_20200811_F2",
                     "faceName": "F2",
-                    "year": 2021
+                    "year": 2020
                 },
                 {
                     "imageFileName": "MM001_聖奧斯定堂_崗頂前地_20200811_F3",
@@ -1823,12 +1823,12 @@ export const macauProperties = [
                 {
                     "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_T",
                     "faceName": "Top",
-                    "year": 2021
+                    "year": 2020
                 },
                 {
                     "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F1",
                     "faceName": "F1",
-                    "year": 2019
+                    "year": 2020
                 },
                 {
                     "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F2",
@@ -1843,7 +1843,7 @@ export const macauProperties = [
                 {
                     "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_F4",
                     "faceName": "F4",
-                    "year": 2019
+                    "year": 2020
                 },
                 {
                     "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D1",
