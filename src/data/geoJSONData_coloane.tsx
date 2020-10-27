@@ -8,10 +8,32 @@ export const coloaneProperties = [
             "id": "MC001",
             "address": "位於馬忌士前地",
             "images": [
-                'MC001_聖方濟各堂_馬忌士前地_20201012_F1.jpg',
-                'MC001_聖方濟各堂_馬忌士前地_20201012_F2.jpg',
-            ],
-            "numFaces": 2
+                {
+                    "imageFileName": "MC001_聖方濟各堂_馬忌士前地_20201012_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC001_聖方濟各堂_馬忌士前地_20201012_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC001_聖方濟各堂_馬忌士前地_20201012_F2",
+                    "faceName": "F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC001_聖方濟各堂_馬忌士前地_20201012_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC001_聖方濟各堂_馬忌士前地_20201012_D2",
+                    "faceName": "D2",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -61,8 +83,28 @@ export const coloaneProperties = [
             "name": "譚僊聖廟（譚公廟）",
             "id": "MC002",
             "address": "位於譚公廟前地",
-            "images": [],
-            "numFaces": 1
+            "images": [
+                {
+                    "imageFileName": "MC002_譚倦聖廟(譚公廟)_譚公廟前地_20201012_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC002_譚倦聖廟(譚公廟)_譚公廟前地_20201012_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC002_譚倦聖廟(譚公廟)_譚公廟前地_20201012_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC002_譚倦聖廟(譚公廟)_譚公廟前地_20201012_D2",
+                    "faceName": "D2",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -113,9 +155,17 @@ export const coloaneProperties = [
             "id": "MC003",
             "address": "位於天后廟前地",
             "images": [
-                'MC003_天后古廟_天后古廟前地_20201012_F1.jpg'
-            ],
-            "numFaces": 1
+                {
+                    "imageFileName": "MC003_天后古廟_天后古廟前地_20201012_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC003_天后古廟_天后古廟前地_20201012_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -150,11 +200,27 @@ export const coloaneProperties = [
             "id": "MC004",
             "address": "位於九澳村",
             "images": [
-                'MC004_觀音廟(九澳)_九澳村_20201012_F1.jpg',
-                'MC004_觀音廟(九澳)_九澳村_20201012_F2.jpg',
-                'MC004_觀音廟(九澳)_九澳村_20201012_F3.jpg',
-            ],
-            "numFaces": 3
+                {
+                    "imageFileName": "MC004_觀音廟(九澳)_九澳村_20201012_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC004_觀音廟(九澳)_九澳村_20201012_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC004_觀音廟(九澳)_九澳村_20201012_F2",
+                    "faceName": "F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC004_觀音廟(九澳)_九澳村_20201012_F3",
+                    "faceName": "F3",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -189,10 +255,22 @@ export const coloaneProperties = [
             "id": "MC005",
             "address": "位於船人街",
             "images": [
-                'MC005_三聖宮_船人街_20201012_F1.jpg',
-                'MC005_三聖宮_船人街_20201012_F2.jpg'
-            ],
-            "numFaces": 2
+                {
+                    "imageFileName": "  ",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC005_三聖宮_船人街_20201012_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC005_三聖宮_船人街_20201012_F2",
+                    "faceName": "F2",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -227,10 +305,22 @@ export const coloaneProperties = [
             "id": "MC006",
             "address": "位於黑沙村",
             "images": [
-                'MC006_大王廟_黑沙村_20201012_F1.jpg',
-                'MC006_大王廟_黑沙村_20201012_F2.jpg'
-            ],
-            "numFaces": 2
+                {
+                    "imageFileName": "MC006_大王廟_黑沙村_20201012_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC006_大王廟_黑沙村_20201012_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC006_大王廟_黑沙村_20201012_F2",
+                    "faceName": "F2",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -265,10 +355,22 @@ export const coloaneProperties = [
             "id": "MC007",
             "address": "位於大廟巷",
             "images": [
-                'MC007_觀音古廟(路環)_大廟巷_20201012_F1.jpg',
-                'MC007_觀音古廟(路環)_大廟巷_20201012_F2.jpg'
-            ],
-            "numFaces": 2
+                {
+                    "imageFileName": "MC007_觀音古廟(路環)_大廟巷_20201012_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC007_觀音古廟(路環)_大廟巷_20201012_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MC007_觀音古廟(路環)_大廟巷_20201012_F2",
+                    "faceName": "F2",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",

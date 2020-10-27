@@ -7,8 +7,28 @@ export const taipaProperties = [
             "name": "嘉模聖母堂",
             "id": "MT001",
             "address": "位於嘉模前地",
-            "images": [],
-            "numFaces": 2
+            "images": [
+                {
+                    "imageFileName": "MT001_嘉模聖母堂_嘉模前地_20201006_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT001_嘉模聖母堂_嘉模前地_20201006_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT001_嘉模聖母堂_嘉模前地_20201006_F2",
+                    "faceName": "F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT001_嘉模聖母堂_嘉模前地_20201006_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -66,8 +86,18 @@ export const taipaProperties = [
             "name": "觀音堂（氹仔）",
             "id": "MT002",
             "address": "位於施督憲正街",
-            "images": [],
-            "numFaces": 1
+            "images": [
+                {
+                    "imageFileName": "MT002_觀音堂(氹仔)_施督憲正街_20201006_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT002_觀音堂(氹仔)_施督憲正街_20201006_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -101,8 +131,28 @@ export const taipaProperties = [
             "name": "觀音岩（氹仔東北馬路）",
             "id": "MT003",
             "address": "位於氹仔東北馬路",
-            "images": [],
-            "numFaces": 2
+            "images": [
+                {
+                    "imageFileName": "MT003_觀音岩(氹仔東北馬路)_氹仔東北馬路_20201006_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT003_觀音岩(氹仔東北馬路)_氹仔東北馬路_20201006_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT003_觀音岩(氹仔東北馬路)_氹仔東北馬路_20201006_F2",
+                    "faceName": "F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT003_觀音岩(氹仔東北馬路)_氹仔東北馬路_20201006_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -168,8 +218,18 @@ export const taipaProperties = [
             "name": "醫靈廟",
             "id": "MT004",
             "address": "位於施督憲正街",
-            "images": [],
-            "numFaces": 1
+            "images": [
+                {
+                    "imageFileName": "MT004_醫靈廟_施督憲正街_20201006_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT004_醫靈廟_施督憲正街_20201006_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -203,8 +263,18 @@ export const taipaProperties = [
             "name": "北帝廟",
             "id": "MT005",
             "address": "位於嘉妹前地",
-            "images": [],
-            "numFaces": 1
+            "images": [
+                {
+                    "imageFileName": "MT005_北帝廟_嘉妹前地_20201006_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT005_北帝廟_嘉妹前地_20201006_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -238,8 +308,18 @@ export const taipaProperties = [
             "name": "天后宮",
             "id": "MT006",
             "address": "位於巴波沙總督街",
-            "images": [],
-            "numFaces": 1
+            "images": [
+                {
+                    "imageFileName": "MT006_天后廟_巴波沙總督街_20201006_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT006_天后廟_巴波沙總督街_20201006_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -273,8 +353,28 @@ export const taipaProperties = [
             "name": "三婆廟",
             "id": "MT007",
             "address": "位於飛能便度街",
-            "images": [],
-            "numFaces": 3
+            "images": [
+                {
+                    "imageFileName": "MT007_三婆廟_飛能便度街_20201006_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT007_三婆廟_飛能便度街_20201006_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT007_三婆廟_飛能便度街_20201006_F2",
+                    "faceName": "F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT007_三婆廟_飛能便度街_20201006_F3",
+                    "faceName": "F3",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -324,8 +424,28 @@ export const taipaProperties = [
             "name": "關帝殿及天后宮",
             "id": "MT008",
             "address": "位於天津街",
-            "images": [],
-            "numFaces": 2
+            "images": [
+                {
+                    "imageFileName": "MT008_關帝殿及天后宮_天津街_20201006_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT008_關帝殿及天后宮_天津街_20201006_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT008_關帝殿及天后宮_天津街_20201006_F2",
+                    "faceName": "F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT008_關帝殿及天后宮_天津街_20201006_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -359,8 +479,28 @@ export const taipaProperties = [
             "name": "氹仔炮台",
             "id": "MT009",
             "address": "位於盧伯德圓形地",
-            "images": [],
-            "numFaces": 2
+            "images": [
+                {
+                    "imageFileName": "MT009_氹仔炮台_盧伯德圓形地_20201006_T",
+                    "faceName": "Top",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT009_氹仔炮台_盧伯德圓形地_20201006_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT009_氹仔炮台_盧伯德圓形地_20201006_F2",
+                    "faceName": "F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MT009_氹仔炮台_盧伯德圓形地_20201006_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -489,5 +629,5 @@ export const taipaProperties = [
                 ]
             ]
         }
-    },
-];
+    }
+]

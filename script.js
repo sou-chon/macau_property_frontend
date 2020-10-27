@@ -3,7 +3,7 @@ const parse = require('csv-parse/lib/sync');
 
 const coordinatefile = fs.readFileSync('./coordinate.tsv');
 
-const coordinaterecords = parse(coordinatefile, {
+let coordinaterecords = parse(coordinatefile, {
     skip_empty_lines: true,
     delimiter: '\t',
     relax_column_count: true,
@@ -17,6 +17,10 @@ const coordinaterecords = parse(coordinatefile, {
         'coordinate'
     ]
 });
+coordinaterecords = coordinaterecords.filter(el => el.coordinate !== '');
+
+/* image data */ 
+const relevantCol = [ 'Top', 'F1', 'F2', 'F3', 'F4', 'F5', 'F6',  'F7', 'F8', 'D1', 'D2', 'D3', 'D4'];
 
 const imagefile_1 = fs.readFileSync('./image_001.tsv');
 let imagerecords_1 = parse(imagefile_1, {
@@ -40,14 +44,38 @@ let imagerecords_1 = parse(imagefile_1, {
     ]
 });
 imagerecords_1 = imagerecords_1.map(el => ({ ...el, id: el.id_name.substring(0, el.id_name.indexOf('_')) }));
-const relevantCol = [ 'Top', 'F1', 'F2', 'F3', 'F4', 'F5', 'F6', 'D1', 'D2', 'D3', 'D4'];
-imagerecords_1 = imagerecords_1.reduce((a, el) => {
+
+const imagefile_2 = fs.readFileSync('./image_002.tsv');
+let imagerecords_2 = parse(imagefile_2, {
+    skip_empty_lines: true,
+    delimiter: '\t',
+    relax_column_count: true,
+    columns: [
+        'numFace',
+        'id_name',
+        'Top',
+        'F1',
+        'F2',
+        'F3',
+        'F4',
+        'F5',
+        'F6',
+        'F7',
+        'F8',
+        'D1',
+        'D2',
+    ]
+});
+imagerecords_2 = imagerecords_2.map(el => ({ ...el, id: el.id_name.substring(0, el.id_name.indexOf('_')) }));
+
+
+imagerecords = [...imagerecords_2, ...imagerecords_1];
+imagerecords = imagerecords.reduce((a, el) => {
     const entry = [];
     relevantCol.forEach(face => {
-        if (el[face] !== '') {
+        if (el[face] !== '' && el[face] !== undefined) {
             entry.push({
                 imageFileName: el[face],
-                //thumbnailFileName: string;
                 faceName: face,
                 year: 2020
             });
@@ -64,8 +92,8 @@ imagerecords_1 = imagerecords_1.reduce((a, el) => {
 
 /* merge to coordinate */
 coordinaterecords.forEach(el => {
-    if (imagerecords_1[el.id]) {
-        el.images = imagerecords_1[el.id];
+    if (imagerecords[el.id]) {
+        el.images = imagerecords[el.id];
     }
 });
 
@@ -104,4 +132,4 @@ const macau_geojson = macau_records.map(mappingFunction);
 const taipa_geojson = taipa_records.map(mappingFunction);
 const coloane_geojson = coloane_records.map(mappingFunction);
 
-console.log(JSON.stringify(macau_geojson, null, 4));
+console.log(JSON.stringify(coloane_geojson, null, 4));
