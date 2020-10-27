@@ -98,7 +98,7 @@ export const ImageDisplay: FC<RouteComponentProps<{ placeID: string, faceID: str
                     <div className={style.images}>
                         {
                             images.filter(el => el.year === parseInt(year)).map(el =>
-                            <NavLink to={`/${placeID}/${year}/${el.faceName}`}>
+                            <NavLink to={`/${placeID}/${year}/${el.faceName}`} key={el.faceName}>
                                 <FaceImageThumbnail placeID={placeID} faceID={el.faceName} imageSrc={el.imageFileName}/>
                             </NavLink>
                             )

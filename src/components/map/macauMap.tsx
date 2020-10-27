@@ -47,7 +47,9 @@ export class MacauMap extends C {
                 layer.bringToFront();
             }
 
-            window.place_info_div.innerHTML = `${layer.feature.properties.id} - ${layer.feature.properties.name}`
+            if (window.place_info_div) {
+                window.place_info_div.innerHTML = `${layer.feature.properties.id} - ${layer.feature.properties.name}`
+            }
         }
 
         function openImageDisplay(e: any) {
@@ -78,7 +80,9 @@ export class MacauMap extends C {
 
         function resetHighlight(e: any) {
             geojson.resetStyle(e.target);
-            window.place_info_div.innerHTML = 'Hover over to give info';
+            if (window.place_info_div) {
+                window.place_info_div.innerHTML = 'Hover over to give info';
+            }
             //window.face_arrows[e.target.feature.properties.id].remove();
         }
 
