@@ -1,10 +1,24 @@
-import React, { FunctionComponent as FC }from 'react';
+import React, { FunctionComponent as FC, useEffect }from 'react';
 import style from './imageDisplay.module.css';
 import { RouteComponentProps, Redirect } from 'react-router-dom';
 import { NavLink } from 'react-router-dom';
 //import { states } from '../../data/geoJSONData';
 
+
+function escapeKeyEvent(e: any) {
+        if (e.keyCode === 27) {
+            window._history.push('/')
+        }
+}
+
 export const ImageDisplay: FC<RouteComponentProps<{ placeID: string, faceID: string | undefined, year: string | undefined }>> = ({ match: { params: { year, placeID, faceID }}}) => {
+    useEffect(() => {
+        document.addEventListener('keydown', escapeKeyEvent);
+        return () => {
+            document.removeEventListener('keydown', escapeKeyEvent);
+        };
+    }, []);
+
     const data = window.data_hash[placeID];
     if (!data) {
         return (
