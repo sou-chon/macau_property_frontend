@@ -90,9 +90,16 @@ export class TaipaMap extends C {
         const geojson = L.geoJSON(taipaProperties as any, {
             style: function(feature: any) {
                 //switch (feature.properties.party) {
-                return ({color: "#0033cc"});
+                switch (feature.properties.category) {
+                    case '紀念物':
+                        return ({ color: "#e60000" });
+                    case '具建築藝術價值的樓宇':
+                        return ({ color: "orange" });
+                    case '建築群':
+                        return ({ color: "#e6e600" });
+                }
                     //case 'Democrat':   return {color: "#0000ff"};
-            },
+            } as any,
             onEachFeature
         }).addTo(map);
         window.geojson_taipa = geojson;
