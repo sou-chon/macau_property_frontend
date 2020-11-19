@@ -684,7 +684,13 @@ export const coloaneProperties = [
             "name": "由路環碼頭至譚公廟前地的海旁",
             "id": "SC001",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SC001_由路環碼頭至譚公廟前地的海旁_20201110_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",

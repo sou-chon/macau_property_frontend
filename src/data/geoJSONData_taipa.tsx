@@ -1054,7 +1054,13 @@ export const taipaProperties = [
             "name": "氹仔市政花園",
             "id": "ST001",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "ST001_氹仔市政花園_20201006_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -1236,7 +1242,13 @@ export const taipaProperties = [
             "name": "嘉模墟（原氹仔市政街市舊址）",
             "id": "ST002",
             "address": "位於鄰近氹仔施督憲正街的土地",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "ST002_嘉模墟(原氹仔市政街市舊址)_氹仔施督憲正街的土地_20201006_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",

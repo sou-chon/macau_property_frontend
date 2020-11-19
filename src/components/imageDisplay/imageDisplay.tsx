@@ -70,7 +70,13 @@ export const ImageDisplay: FC<RouteComponentProps<{ placeID: string, faceID: str
                     <h5>{id}</h5>
                     <h5>{name}</h5>
                     <br/>
-                    <span>{address}</span><br/><br/>
+                    <span>{
+                        address.indexOf('\n') === -1
+                        ?
+                        address
+                        :
+                        address.split('\n').map(el => <>{el}<br/></>)
+                    }</span><br/><br/>
                     <span>{category}</span>
                 </div>
                 <div className={style.face_selection}>

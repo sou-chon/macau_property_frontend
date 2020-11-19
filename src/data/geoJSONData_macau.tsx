@@ -7184,8 +7184,619 @@ export const macauProperties = [
             "island": "Macau",
             "name": "亞美打利庇盧大馬路(新馬路),議事亭前地,板樟堂前地",
             "id": "CM001",
-            "address": "",
-            "images": []
+            "address": "亞 - 亞美打利庇盧大馬路(新馬路)\n議 - 議事亭前地\n大 - 大堂街\n板前 - 板樟堂前地\n板 - 板樟堂街\n米 - 米糙巷\n營 - 營地大街\n通 - 通商新街\n海 - 海邊新街\n火 - 火船頭街\n庇 - 庇山耶街/爐石塘",
+            "images": [
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路),議事亭前地,板樟堂前地_20201025_T1",
+                    "faceName": "亞,議,板T1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路),議事亭前地,板樟堂前地_20201025_T2",
+                    "faceName": "亞,議,板T2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路),議事亭前地,板樟堂前地_20201025_T3",
+                    "faceName": "亞,議,板T3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)48,54,60,66,70,76,80號_20201026_F1",
+                    "faceName": "亞48,54,60,66,70,76,80號F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)48,54,60,66,70,76,80號_20201026_F2",
+                    "faceName": "亞48,54,60,66,70,76,80號F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_大堂街_6,8號_20201026",
+                    "faceName": "亞_大6,8號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_大堂街_10A,10號_20201026",
+                    "faceName": "亞_大10A,10號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_大堂街_12,12A號_20201026",
+                    "faceName": "亞_大12,12A號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)92,98,126號_20201026_F1",
+                    "faceName": "亞92,98,126號F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)92,98,126號_20201026_F2",
+                    "faceName": "亞92,98,126號F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)92,98,126號_20201026_F3",
+                    "faceName": "亞92,98,126號F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_大堂街_郵政儲金局_20201026",
+                    "faceName": "亞_大_郵政儲金局",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_議事亭前地16號_20201026",
+                    "faceName": "議16號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_議事亭前地7,7A,7B號_20201026",
+                    "faceName": "議7,7A,7B號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_議事亭前地_澳門特別行政區政府旅遊局_20201026",
+                    "faceName": "議_旅遊局",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_議事亭前地_11,11A,13,13A,13B,13C號_20201026",
+                    "faceName": "議11,11A,13,13A,13B,13C號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_議事亭前地_16A號_20201026",
+                    "faceName": "議16A號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_議事亭前地_18,18A,18B號_20201026",
+                    "faceName": "議18,18A,18B號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_議事亭前地_20,20A號_20201026",
+                    "faceName": "議20,20A號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_議事亭前地_22,24號_20201026",
+                    "faceName": "議22,24號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_議事亭前地_15,17,21,23號_20201026",
+                    "faceName": "議15,17,21,23號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_議事亭前地_25,27號_20201026",
+                    "faceName": "議25,27號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_議事亭前地_29,29A,31,31A號_20201026",
+                    "faceName": "議29,29A,31,31A號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_議事亭前地_33號_20201026",
+                    "faceName": "議33號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂前地1,3,5號_20201025",
+                    "faceName": "板前1,3,5號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂前地2號_20201025",
+                    "faceName": "板前2號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂前地4號_20201025",
+                    "faceName": "板前4號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂前地6,12,14,16號_20201025",
+                    "faceName": "板前6,12,14,16號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂街1A,1B,1C號_20201025",
+                    "faceName": "板1A,1B,1C號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂街1D,1E,1F號_20201025",
+                    "faceName": "板1D,1E,1F號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂街1G,1H,1I,1J號_20201025",
+                    "faceName": "板1G,1H,1I,1J號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂街2號_20201025",
+                    "faceName": "板2號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂街4號_20201025",
+                    "faceName": "板4號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂街6號_20201025.jpg",
+                    "faceName": "板6號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂街6A號_20201025.jpg",
+                    "faceName": "板6A號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂街8號_20201025.jpg",
+                    "faceName": "板8號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂街10號_20201025.jpg",
+                    "faceName": "板10號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂街12,14號_20201025.jpg",
+                    "faceName": "板12,14號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_板樟堂街16號_20201025.jpg",
+                    "faceName": "板16號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_米糙巷6,8,10,12,14,16,18號_20201025",
+                    "faceName": "米6,8,10,12,14,16,18號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_米糙巷18A,20號_20201025",
+                    "faceName": "米18A,20號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_米糙巷1,3,3A,3B號_20201025",
+                    "faceName": "米1,3,3A,3B號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_營地大街31號_20201025",
+                    "faceName": "營31號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_營地大街33號_20201025",
+                    "faceName": "營33號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_營地大街33A號_20201025",
+                    "faceName": "營33A號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_營地大街33B號_20201025",
+                    "faceName": "營33B號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_營地大街33C號_20201025",
+                    "faceName": "營33C號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_營地大街33D號_20201025",
+                    "faceName": "營33D號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_192,194,200,204,208號_20201026",
+                    "faceName": "亞192,194,200,204,208號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_222,228號_20201026",
+                    "faceName": "亞222,228號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_230,238,240,246號_20201026",
+                    "faceName": "亞230,238,240,246號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_264,270,278號_20201026",
+                    "faceName": "亞264,270,278號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_296,302,310,316號_20201026",
+                    "faceName": "亞296,302,310,316號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_326號_20201026",
+                    "faceName": "亞326號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_328號_20201026",
+                    "faceName": "亞328號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_346號_20201026",
+                    "faceName": "亞346號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_352號_20201026",
+                    "faceName": "亞352號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_366號_20201026",
+                    "faceName": "亞366號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_370,376,380號_20201026",
+                    "faceName": "亞370,376,380號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_384號_20201026",
+                    "faceName": "亞384號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_386,390號_20201026",
+                    "faceName": "亞386,390號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_396號_20201026",
+                    "faceName": "亞396號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_408,412,416,420,422,424,426號_20201026",
+                    "faceName": "亞408,412,416,420,422,424,426號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_434,436號_20201026",
+                    "faceName": "亞434,436號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_438,446,448號_20201026",
+                    "faceName": "亞438,446,448號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_460,466,470,476號_20201026",
+                    "faceName": "亞460,466,470,476號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_480,484,488,492,496,500,508號_20201026",
+                    "faceName": "亞480,484,488,492,496,500,508號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_514,518,522,516,530號_20201026",
+                    "faceName": "亞514,518,522,516,530號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_558,566,570號_20201026",
+                    "faceName": "亞558,566,570號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_572,576號_20201026",
+                    "faceName": "亞572,576號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_580,586,588號_20201026",
+                    "faceName": "亞580,586,588號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_612號_20201026",
+                    "faceName": "亞612號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_通商新街/新填地_5號_20201026",
+                    "faceName": "通5號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_通商新街/新填地_7,7A號_20201026",
+                    "faceName": "通7,7A號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_通商新街/新填地_9號_20201026",
+                    "faceName": "通9號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_通商新街/新填地_2,4,6,8,10,12號_20201026",
+                    "faceName": "通2,4,6,8,10,12號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_海邊新街_286,298,304,310,312號_20201026",
+                    "faceName": "海286,298,304,310,312號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_85,95,99號_20201026",
+                    "faceName": "亞85,95,99號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_103,113,119,125,129,135號_20201026",
+                    "faceName": "亞103,113,119,125,129,135號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_市政署號_20201026",
+                    "faceName": "亞_市政署",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_201,205,209號_20201026",
+                    "faceName": "亞201,205,209號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_215,219號_20201026",
+                    "faceName": "亞215,219號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_221號_20201026",
+                    "faceName": "亞221號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_241號_20201026",
+                    "faceName": "亞241號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_255,257,259,263,265號_20201026",
+                    "faceName": "亞255,257,259,263,265號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_271,275號_20201026",
+                    "faceName": "亞271,275號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_279,287號_20201026",
+                    "faceName": "亞279,287號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_299號_20201026",
+                    "faceName": "亞299號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_305號_20201026",
+                    "faceName": "亞305號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_311,313號_20201026",
+                    "faceName": "亞311,313號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_319號_20201026",
+                    "faceName": "亞319號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_325號_20201026",
+                    "faceName": "亞325號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_327,333,335號_20201026",
+                    "faceName": "亞327,333,335號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_345號_20201026",
+                    "faceName": "亞345號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_351號_20201026",
+                    "faceName": "亞351號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_355號_20201026",
+                    "faceName": "亞355號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_359號_20201026",
+                    "faceName": "亞359號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_363號_20201026",
+                    "faceName": "亞363號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_369號_20201026",
+                    "faceName": "亞369號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_373號_20201026",
+                    "faceName": "亞373號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_379號_20201026",
+                    "faceName": "亞379號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_381號_20201026",
+                    "faceName": "亞381號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_385號_20201026",
+                    "faceName": "亞385號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_393,397號_20201026",
+                    "faceName": "亞393,397號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_407,411,415,419,423,427號_20201026",
+                    "faceName": "亞407,411,415,419,423,427號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_437,443,447號_20201026",
+                    "faceName": "亞437,443,447號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_453,459,463號_20201026",
+                    "faceName": "亞453,459,463號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_469,473,477,481號_20201026",
+                    "faceName": "亞469,473,477,481號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_金碧文娛中心_20201026",
+                    "faceName": "亞_金碧文娛中心",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_507,511,515號_20201026",
+                    "faceName": "亞507,511,515號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_519號_20201026",
+                    "faceName": "亞519號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_523號_20201026",
+                    "faceName": "亞523號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_529,533號_20201026",
+                    "faceName": "亞529,533號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_539,543,547號_20201026",
+                    "faceName": "亞539,543,547號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_557,559號_20201026",
+                    "faceName": "亞557,559號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_565號_20201026",
+                    "faceName": "亞565號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_569,571號_20201026",
+                    "faceName": "亞569,571號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_575,579,583號_20201026",
+                    "faceName": "亞575,579,583號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_亞美打利庇盧大馬路(新馬路)_597,603,607,611號_20201026",
+                    "faceName": "亞597,603,607,611號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_火船頭街_17,21,27,33號_20201026",
+                    "faceName": "火17,21,27,33號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_庇山耶街/爐石塘_55,57號_20201026",
+                    "faceName": "庇55,57號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM001_庇山耶街/爐石塘_59號_20201026",
+                    "faceName": "庇59號",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -7630,8 +8241,129 @@ export const macauProperties = [
             "island": "Macau",
             "name": "望德堂坊",
             "id": "CM002",
-            "address": "",
-            "images": []
+            "address": "望 - 望德堂坊\n聖 - 聖美基街",
+            "images": [
+                {
+                    "imageFileName": "CM002_望德堂坊_聖美基街_20_20201016",
+                    "faceName": "望_聖_20",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_聖美基街_22_20201017",
+                    "faceName": "望_聖_22",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_聖美基街_24_20201018",
+                    "faceName": "望_聖_24",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_聖美基街_26_20201019",
+                    "faceName": "望_聖_26",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_聖美基街_28_20201020",
+                    "faceName": "望_聖_28",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_聖美基街_30_20201021",
+                    "faceName": "望_聖_30",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_聖美基街_32_20201022",
+                    "faceName": "望_聖_32",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_聖美基街_34_20201023",
+                    "faceName": "望_聖_34",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_聖美基街_36_20201024",
+                    "faceName": "望_聖_36",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_聖美基街_38_20201025",
+                    "faceName": "望_聖_38",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_聖美基街_40_20201026",
+                    "faceName": "望_聖_40",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_20201016_F12",
+                    "faceName": "望__F12",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_52側_20201016",
+                    "faceName": "望_52側",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_7_20201016",
+                    "faceName": "望_7",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_30_20201016",
+                    "faceName": "望_30",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_32_20201016",
+                    "faceName": "望_32",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_34_20201016",
+                    "faceName": "望_34",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_36_20201016",
+                    "faceName": "望_36",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_澳門演藝學院音樂學校_20201016",
+                    "faceName": "望_澳門演藝學院音樂學校",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_20201016_F20",
+                    "faceName": "望_F20",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_1_20201016",
+                    "faceName": "望_1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_6_20201016",
+                    "faceName": "望_6",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_2側_20201016",
+                    "faceName": "望_2側",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM002_望德堂坊_39_20201016",
+                    "faceName": "望_39",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -7781,7 +8513,88 @@ export const macauProperties = [
             "name": "荷蘭園大馬路89號至95G號",
             "id": "CM003",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路89號至95G號",
+                    "faceName": "荷89號至95G號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路2號_20201026",
+                    "faceName": "荷2號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路89號_20201026",
+                    "faceName": "荷89號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路S/N號_20201026",
+                    "faceName": "荷S/N號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路89A,89B號_20201026",
+                    "faceName": "荷89A,89B號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路1A號_20201026",
+                    "faceName": "荷1A號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路89號_20201026",
+                    "faceName": "荷89號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路S/N號_20201026",
+                    "faceName": "荷S/N號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路S/N號_20201026",
+                    "faceName": "荷S/N號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路2號_20201026",
+                    "faceName": "荷2號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路89號_20201026",
+                    "faceName": "荷89號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路S/N號_20201026",
+                    "faceName": "荷S/N號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路S/N號_20201026",
+                    "faceName": "荷S/N號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路2號_20201026",
+                    "faceName": "荷2號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路89號_20201026",
+                    "faceName": "荷89號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路S/N號_20201026",
+                    "faceName": "荷S/N號",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -8357,7 +9170,13 @@ export const macauProperties = [
             "name": "塔石廣場（原美上校操場舊址）",
             "id": "SM001",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM001_塔石廣場_20200924_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -9237,7 +10056,13 @@ export const macauProperties = [
             "name": "馬交石山",
             "id": "SM005",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM005_馬交石山_20201016_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -9407,7 +10232,13 @@ export const macauProperties = [
             "name": "望廈山",
             "id": "SM006",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM006_望廈山_20201110_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -9939,7 +10770,13 @@ export const macauProperties = [
             "name": "盧廉若公園",
             "id": "SM008",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM008_盧廉若公園_20200830_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -10065,7 +10902,13 @@ export const macauProperties = [
             "name": "白鴿巢公園及基督教墳場",
             "id": "SM009",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM009_白鴿巢公園及基督教墳場_20200911_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -10231,7 +11074,13 @@ export const macauProperties = [
             "name": "螺絲山公園",
             "id": "SM010",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM010_螺絲山公園_20201110_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -10325,7 +11174,13 @@ export const macauProperties = [
             "name": "加思欄花園",
             "id": "SM011",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM011_加思欄花園_20201007_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -10427,7 +11282,13 @@ export const macauProperties = [
             "name": "得勝花園",
             "id": "SM012",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM012_得勝花園_20200825_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -10461,7 +11322,13 @@ export const macauProperties = [
             "name": "華士古達嘉馬花園",
             "id": "SM013",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM013_華士古達嘉馬花園_20200824_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -10507,7 +11374,13 @@ export const macauProperties = [
             "name": "由嘉樂庇總督大橋至聖地牙哥炮台的海旁",
             "id": "SM014",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM014_巴斯墓園(白頭墳場)_20201016_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -11659,7 +12532,13 @@ export const macauProperties = [
             "name": "柯邦迪前地（司打口）",
             "id": "SM016",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM016_柯邦迪前地(司打口)_20201008_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -11731,7 +12610,13 @@ export const macauProperties = [
             "name": "紀念孫中山市政公園",
             "id": "SM018",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM018_紀念孫中山市政公園_20201110_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -11877,7 +12762,13 @@ export const macauProperties = [
             "name": "聖味基墳場（舊西洋墳場）",
             "id": "SM019",
             "address": "位於澳門西墳馬路2A-4號",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM019_聖味基墳場(舊西洋墳場)_澳門西墳馬路2A-4號_20201016_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -11939,7 +12830,13 @@ export const macauProperties = [
             "name": "原沙欄仔街市舊址（原泗口孟街市舊址）",
             "id": "SM020",
             "address": "位於澳門水雞巷及賣魚巷",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM020_原沙欄仔街市舊址(原泗𠵼街市舊址)_澳門水雞巷及賣魚巷_20201008_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
