@@ -100,6 +100,8 @@ export class MacauMap extends C {
                         return ({ color: "orange" });
                     case '建築群':
                         return ({ color: "#e6e600" });
+                    case '場所':
+                        return ({ color: "green" });
                 }
                     //case 'Democrat':   return {color: "#0000ff"};
                         //

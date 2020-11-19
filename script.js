@@ -17,7 +17,12 @@ let coordinaterecords = parse(coordinatefile, {
         'coordinate'
     ]
 });
-coordinaterecords = coordinaterecords.filter(el => el.coordinate !== '');
+//coordinaterecords = coordinatercords.filter(el => el.coordinate !== '');
+coordinaterecords.forEach( el => {
+    if (!el.coordinate) {
+        throw new Error(JSON.stringify(el));
+    }
+} )
 
 /* image data */ 
 const relevantCol = [ 'Top', 'F1', 'F2', 'F3', 'F4', 'F5', 'F6',  'F7', 'F8', 'D1', 'D2', 'D3', 'D4'];
