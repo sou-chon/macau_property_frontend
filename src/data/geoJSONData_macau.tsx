@@ -8515,83 +8515,123 @@ export const macauProperties = [
             "address": "",
             "images": [
                 {
-                    "imageFileName": "CM003_荷蘭園大馬路89號至95G號",
-                    "faceName": "荷89號至95G號",
+                    "imageFileName": "CM003_荷蘭園大馬路_塔石衛生中心_20201026_F1",
+                    "faceName": "塔石衛生中心_F1",
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CM003_荷蘭園大馬路2號_20201026",
-                    "faceName": "荷2號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CM003_荷蘭園大馬路89號_20201026",
-                    "faceName": "荷89號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CM003_荷蘭園大馬路S/N號_20201026",
-                    "faceName": "荷S/N號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CM003_荷蘭園大馬路89A,89B號_20201026",
-                    "faceName": "荷89A,89B號",
+                    "imageFileName": "CM003_荷蘭園大馬路_塔石衛生中心_20201026_F2",
+                    "faceName": "塔石衛生中心_F2",
                     "year": 2020
                 },
                 {
                     "imageFileName": "CM003_荷蘭園大馬路1A號_20201026",
-                    "faceName": "荷1A號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CM003_荷蘭園大馬路89號_20201026",
-                    "faceName": "荷89號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CM003_荷蘭園大馬路S/N號_20201026",
-                    "faceName": "荷S/N號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CM003_荷蘭園大馬路S/N號_20201026",
-                    "faceName": "荷S/N號",
+                    "faceName": "1A號",
                     "year": 2020
                 },
                 {
                     "imageFileName": "CM003_荷蘭園大馬路2號_20201026",
-                    "faceName": "荷2號",
+                    "faceName": "2號",
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CM003_荷蘭園大馬路89號_20201026",
-                    "faceName": "荷89號",
+                    "imageFileName": "CM003_荷蘭園大馬路8號_20201026",
+                    "faceName": "8號",
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CM003_荷蘭園大馬路S/N號_20201026",
-                    "faceName": "荷S/N號",
+                    "imageFileName": "CM003_荷蘭園大馬路10,12號_20201026",
+                    "faceName": "10,12號",
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CM003_荷蘭園大馬路S/N號_20201026",
-                    "faceName": "荷S/N號",
+                    "imageFileName": "CM003_荷蘭園大馬路14號_20201026",
+                    "faceName": "14號",
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CM003_荷蘭園大馬路2號_20201026",
-                    "faceName": "荷2號",
+                    "imageFileName": "CM003_荷蘭園大馬路18,20號_20201026",
+                    "faceName": "18,20號",
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CM003_荷蘭園大馬路89號_20201026",
-                    "faceName": "荷89號",
+                    "imageFileName": "CM003_荷蘭園大馬路89A,89B號_20201026",
+                    "faceName": "89A,89B號",
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CM003_荷蘭園大馬路S/N號_20201026",
-                    "faceName": "荷S/N號",
+                    "imageFileName": "CM003_荷蘭園大馬路89A,89B號_20201026",
+                    "faceName": "89A,89B號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路89A,89B號_20201026",
+                    "faceName": "89A,89B號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路89號_20201026_F3",
+                    "faceName": "89號_F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路91,93號_20201026",
+                    "faceName": "91,93號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路95C,95D號_20201026_F1 ",
+                    "faceName": "95C,95D號_F1 ",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路95C,95D號_20201026_F2",
+                    "faceName": "95C,95D號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路95E,95F,95G號_20201026_F1",
+                    "faceName": "95E,95F,95G號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路95E,95F,95G號_20201026_F2",
+                    "faceName": "95E,95F,95G號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路95E,95F,95G號_20201026_F3",
+                    "faceName": "95E,95F,95G號_F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路95E,95F,95G號_20201026_F4",
+                    "faceName": "95E,95F,95G號_F4",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路95號_20201026_F1",
+                    "faceName": "95號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路95號_20201026_F2",
+                    "faceName": "95號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路95A,95B號_20201026_F1",
+                    "faceName": "95A,95B號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路95A,95B號20201026_F2",
+                    "faceName": "95A,95B號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路89號至95G號_20200924_T",
+                    "faceName": "89號至95G號_T",
                     "year": 2020
                 }
             ]
@@ -8627,8 +8667,59 @@ export const macauProperties = [
             "island": "Macau",
             "name": "亞婆井前地及龍頭里",
             "id": "CM004",
-            "address": "",
-            "images": []
+            "address": "亞 - 亞婆井前地\n龍 - 龍頭里",
+            "images": [
+                {
+                    "imageFileName": "CM004_亞婆井前地1,27號_20201008",
+                    "faceName": "亞1,27號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM004_亞婆井前地2號_20201008",
+                    "faceName": "亞2號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM004_亞婆井前地4號_20201008",
+                    "faceName": "亞4號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM004_亞婆井前地7,9號_20201008_F1",
+                    "faceName": "亞7,9號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM004_亞婆井前地7,9號_20201008_F2",
+                    "faceName": "亞7,9號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM004_亞婆井前地37,49號_20201008_F1",
+                    "faceName": "亞37,49號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM004_亞婆井前地37,49號_20201008_F2",
+                    "faceName": "亞37,49號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM004_龍頭里1,3號_20201008",
+                    "faceName": "龍1,3號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM004_龍頭里5號_20201008",
+                    "faceName": "龍5號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM004_亞婆井前地及龍頭里_20201008_T",
+                    "faceName": "亞,龍_T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -8726,7 +8817,63 @@ export const macauProperties = [
             "name": "崗頂前地",
             "id": "CM005",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "CM005_崗地前地1號_20201110",
+                    "faceName": "1號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM005_崗地前地1B,1C,1D號_20201110",
+                    "faceName": "1B,1C,1D號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM005_崗地前地1,1A號_20201110",
+                    "faceName": "1,1A號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM005_崗頂前地3號_20200811",
+                    "faceName": "3號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM005_崗地前地5號_20200811",
+                    "faceName": "5號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM005_崗頂前地9號_20200811_F1",
+                    "faceName": "9號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM005_崗頂前地9號_20200811_F2",
+                    "faceName": "9號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM005_崗地前地_20201110_F4",
+                    "faceName": "F4",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM005_崗地前地_20201110_F5",
+                    "faceName": "F5",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM005_崗地前地_20201110_F8",
+                    "faceName": "F8",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM005_崗地前地_20200811_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -8979,8 +9126,19 @@ export const macauProperties = [
             "island": "Macau",
             "name": "大三巴巷",
             "id": "CM006",
-            "address": "",
-            "images": []
+            "address": "** 1至9號包括1,1AA,1AB,3,3A,3B,5,5A,5B,7,7A,7B,9",
+            "images": [
+                {
+                    "imageFileName": "CM006_大三巴巷1,1AA,1AB,3,3A,3B,5,5A,5B,7,7A,7B,9號_20200924",
+                    "faceName": "1至9號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM006_大三巴巷_20200924_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -9026,7 +9184,43 @@ export const macauProperties = [
             "name": "戀愛巷",
             "id": "CM007",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "CM007_戀愛巷1號,3號,3A號,5號,7號,9號,11號_20200911",
+                    "faceName": "1號,3號,3A號,5號,7號,9號,11號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM007_戀愛巷13號,15號_20200911",
+                    "faceName": "13號,15號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM007_戀愛巷_20200911_F2",
+                    "faceName": "F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM007_戀愛巷_20200911_F3",
+                    "faceName": "F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM007_戀愛巷_20200911_F4",
+                    "faceName": "F4",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM007_戀愛巷_20200911_F5",
+                    "faceName": "F5",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM007_戀愛巷_20200911_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -9075,8 +9269,459 @@ export const macauProperties = [
             "island": "Macau",
             "name": "福隆新街及福榮里",
             "id": "CM008",
-            "address": "",
-            "images": []
+            "address": "隆 - 福隆新街\n榮 - 福榮里\n圍 - 隆福圍\n清 - 清和里\n虱 - 虱乸街",
+            "images": [
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里_20201008_T",
+                    "faceName": "隆_榮_T",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里2,4號_20201008",
+                    "faceName": "隆_榮2,4號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里8號_20201008",
+                    "faceName": "隆_榮8號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里10號_20201008",
+                    "faceName": "隆_榮10號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里12號_20201008",
+                    "faceName": "隆_榮12號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里14號_20201008",
+                    "faceName": "隆_榮14號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里16號_20201008",
+                    "faceName": "隆_榮16號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里18號_20201008",
+                    "faceName": "隆_榮18號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里20號_20201008",
+                    "faceName": "隆_榮20號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里24號_20201008",
+                    "faceName": "隆_榮24號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里26號_20201008",
+                    "faceName": "隆_榮26號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里28號_20201008",
+                    "faceName": "隆_榮28號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里30號_20201008",
+                    "faceName": "隆_榮30號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里32號_20201008",
+                    "faceName": "隆_榮32號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里34號_20201008",
+                    "faceName": "隆_榮34號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里36號_20201008",
+                    "faceName": "隆_榮36號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里38號_20201008",
+                    "faceName": "隆_榮38號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里40號_20201008",
+                    "faceName": "隆_榮40號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里42號_20201008",
+                    "faceName": "隆_榮42號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里44號_20201008",
+                    "faceName": "隆_榮44號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里46號_20201008",
+                    "faceName": "隆_榮46號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里48號_20201008",
+                    "faceName": "隆_榮48號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里50號_20201008",
+                    "faceName": "隆_榮50號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里52號_20201008",
+                    "faceName": "隆_榮52號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里54號_20201008",
+                    "faceName": "隆_榮54號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里56,58號_20201008",
+                    "faceName": "隆_榮56,58號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里1,3號_20201008",
+                    "faceName": "隆_榮1,3號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里7號_20201008",
+                    "faceName": "隆_榮7號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里9號_20201008",
+                    "faceName": "隆_榮9號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里11號_20201008",
+                    "faceName": "隆_榮11號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里13號_20201008",
+                    "faceName": "隆_榮13號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里15,17號_20201008",
+                    "faceName": "隆_榮15,17號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里19號_20201008",
+                    "faceName": "隆_榮19號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里21號_20201008",
+                    "faceName": "隆_榮21號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里23號_20201008",
+                    "faceName": "隆_榮23號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里27號_20201008",
+                    "faceName": "隆_榮27號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里29號_20201008",
+                    "faceName": "隆_榮29號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里31號_20201008",
+                    "faceName": "隆_榮31號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里33號_20201008",
+                    "faceName": "隆_榮33號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里35號_20201008",
+                    "faceName": "隆_榮35號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里37號_20201008",
+                    "faceName": "隆_榮37號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里39號_20201008",
+                    "faceName": "隆_榮39號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里41號_20201008",
+                    "faceName": "隆_榮41號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里43號_20201008",
+                    "faceName": "隆_榮43號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里45號_20201008",
+                    "faceName": "隆_榮45號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里47號_20201008",
+                    "faceName": "隆_榮47號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里49號_20201008",
+                    "faceName": "隆_榮49號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里51號_20201008",
+                    "faceName": "隆_榮51號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里53號_20201008",
+                    "faceName": "隆_榮53號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里55號_20201008",
+                    "faceName": "隆_榮55號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里59,61,63號_20201008",
+                    "faceName": "隆_榮59,61,63號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆新街及福榮里65,65A,67號_20201008",
+                    "faceName": "隆_榮65,65A,67號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆圍/清和里/虱乸街19號_20201008",
+                    "faceName": "圍/清/虱19號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆圍/清和里/虱乸街13,15,17號_20201008",
+                    "faceName": "圍/清/虱13,15,17號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆圍/清和里/虱乸街5,7,9,11號_20201008",
+                    "faceName": "圍/清/虱5,7,9,11號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆圍/清和里/虱乸街6號_20201008",
+                    "faceName": "圍/清/虱6號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆圍/清和里/虱乸街8號_20201008",
+                    "faceName": "圍/清/虱8號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆圍/清和里/虱乸街10號_20201008",
+                    "faceName": "圍/清/虱10號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆圍/清和里/虱乸街12號_20201008",
+                    "faceName": "圍/清/虱12號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆圍/清和里/虱乸街14號_20201008",
+                    "faceName": "圍/清/虱14號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆圍/清和里/虱乸街16號_20201008",
+                    "faceName": "圍/清/虱16號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆圍/清和里/虱乸街18號_20201008",
+                    "faceName": "圍/清/虱18號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆圍/清和里/虱乸街20號_20201008",
+                    "faceName": "圍/清/虱20號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福隆圍/清和里/虱乸街22號_20201008",
+                    "faceName": "圍/清/虱22號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里5號_20201008",
+                    "faceName": "榮5號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里7號_20201008",
+                    "faceName": "榮7號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里9號_20201008",
+                    "faceName": "榮9號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里11號_20201008",
+                    "faceName": "榮11號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里13號_20201008",
+                    "faceName": "榮13號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里15號_20201008",
+                    "faceName": "榮15號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里17號_20201008",
+                    "faceName": "榮17號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里19號_20201008",
+                    "faceName": "榮19號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里21號_20201008",
+                    "faceName": "榮21號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里23號_20201008",
+                    "faceName": "榮23號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里25號_20201008",
+                    "faceName": "榮25號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里2號_20201008",
+                    "faceName": "榮2號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里4號_20201008",
+                    "faceName": "榮4號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里6號_20201008",
+                    "faceName": "榮6號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里8號_20201008",
+                    "faceName": "榮8號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里10號_20201008",
+                    "faceName": "榮10號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里12號_20201008",
+                    "faceName": "榮12號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里14號_20201008",
+                    "faceName": "榮14號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里16號_20201008",
+                    "faceName": "榮16號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里18號_20201008",
+                    "faceName": "榮18號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里20號_20201008",
+                    "faceName": "榮20號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里22號_20201008",
+                    "faceName": "榮22號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里24號_20201008",
+                    "faceName": "榮24號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里26號_20201008",
+                    "faceName": "榮26號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里28號_20201008",
+                    "faceName": "榮28號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM008_福榮里30號_20201008",
+                    "faceName": "榮30號",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",

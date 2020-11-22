@@ -746,7 +746,63 @@ export const taipaProperties = [
             "name": "嘉模前地，海邊馬路",
             "id": "CT001",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_20201006_T",
+                    "faceName": "T",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_創薈館_20201006_F1",
+                    "faceName": "創薈館_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_創薈館_20201006_F2",
+                    "faceName": "創薈館_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_匯藝廊_20201006_F1",
+                    "faceName": "匯藝廊_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_匯藝廊_20201006_F2",
+                    "faceName": "匯藝廊_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_葡韻生活館-20201006_F1",
+                    "faceName": "葡韻生活館_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_葡韻生活館_20201006_F2",
+                    "faceName": "葡韻生活館_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路4號_風貌館_20201006_F1",
+                    "faceName": "4號_風貌館_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路4號_風貌館_20201006_F2",
+                    "faceName": "4號_風貌館_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路5號_迎賓館_20201006_F1",
+                    "faceName": "5號_迎賓館_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路5號_迎賓館_20201006_F2",
+                    "faceName": "5號_迎賓館_F2",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -919,8 +975,134 @@ export const taipaProperties = [
             "island": "Taipa",
             "name": "嘉妹前地，買賣街，客商街，中街",
             "id": "CT002",
-            "address": "",
-            "images": []
+            "address": "嘉 - 嘉妹前地\n生 - 生央街\n買 - 買賣街\n客 - 客商街\n中 - 中街",
+            "images": [
+                {
+                    "imageFileName": "CT002_嘉妹前地，買賣街，客商街，中街_20201006_T",
+                    "faceName": "嘉，買，客，中_T",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_嘉妹前地_20201006_F6",
+                    "faceName": "嘉_F6",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_嘉妹前地_20201006_F7",
+                    "faceName": "嘉_F7",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_嘉妹前地_20201006_F8",
+                    "faceName": "嘉_F8",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_嘉妹前地37,39,43,45,49,53號_20201006",
+                    "faceName": "嘉37,39,43,45,49,53號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_嘉妹前地_北帝廟_20201006",
+                    "faceName": "嘉_北帝廟",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_生央街2AA,8AA,12AA_20201006",
+                    "faceName": "生2AA,8AA,12AA",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街49,53號_20201006",
+                    "faceName": "客49,53號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街19號_20201006",
+                    "faceName": "客19號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街41,43號_20201006",
+                    "faceName": "客41,43號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街11號_20201006",
+                    "faceName": "客11號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街9,9A號_20201006",
+                    "faceName": "客9,9A號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街31號_20201006",
+                    "faceName": "客31號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街5號_20201006",
+                    "faceName": "客5號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街23號_20201006",
+                    "faceName": "客23號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街2號_20201006",
+                    "faceName": "客2號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街4號_20201006",
+                    "faceName": "客4號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街6號_20201006",
+                    "faceName": "客6號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街8A號_20201006",
+                    "faceName": "客8A號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街8號_20201006",
+                    "faceName": "客8號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_客商街10號_20201006",
+                    "faceName": "客10號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_中街1,3,5號_20201006",
+                    "faceName": "中1,3,5號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_中街7號_20201006",
+                    "faceName": "中7號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_中街9號_20201006",
+                    "faceName": "中9號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_中街11號_20201006",
+                    "faceName": "中11號",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
