@@ -461,8 +461,424 @@ export const coloaneProperties = [
             "island": "Coloane",
             "name": "馬忌士前地,客商街,恩尼斯總統前地",
             "id": "CC001",
-            "address": "",
-            "images": []
+            "address": "馬 - 馬忌士前地\n客 - 客商街\n恩 - 恩尼斯總統前地\n計 - 計單奴街\n中 - 中街\n恩 - 恩尼斯總統前地",
+            "images": [
+                {
+                    "imageFileName": "CC001_馬忌士前地,客商街,恩尼斯總統前地_20201012_T",
+                    "faceName": "馬,客,恩_T",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_馬忌士前地_20201012_F13",
+                    "faceName": "馬_F13",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_馬忌士前地_地球物理暨氣象局",
+                    "faceName": "馬_地球物理暨氣象局",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_馬忌士前地_20201012_F17",
+                    "faceName": "馬_F17",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_馬忌士前地__20201012_F30",
+                    "faceName": "馬_F30",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街1,3號_F1_20201012",
+                    "faceName": "計1,3號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街1,3號_F2_20201012",
+                    "faceName": "計1,3號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_聖母青年中心_F1_20201012",
+                    "faceName": "計_聖母青年中心_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_聖母青年中心_F2_20201012",
+                    "faceName": "計_聖母青年中心_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_天主堂_F1_20201012",
+                    "faceName": "計_天主堂_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_天主堂_F2_20201012",
+                    "faceName": "計_天主堂_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_21,23,25,27,29號_20201012",
+                    "faceName": "計_21,23,25,27,29號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_31號_20201012",
+                    "faceName": "計_31號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_37,39,41號_20201012",
+                    "faceName": "計_37,39,41號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_2,4號_20201012",
+                    "faceName": "計_2,4號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_6號_20201012",
+                    "faceName": "計_6號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_8號_20201012",
+                    "faceName": "計_8號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_20號_20201012",
+                    "faceName": "計_20號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_22,24號_20201012",
+                    "faceName": "計_22,24號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_26號_20201012",
+                    "faceName": "計_26號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_28號_20201012",
+                    "faceName": "計_28號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_30,32,34,36號_20201012",
+                    "faceName": "計_30,32,34,36號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_40號_20201012",
+                    "faceName": "計_40號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_42號_20201012",
+                    "faceName": "計_42號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_46號_20201012",
+                    "faceName": "計_46號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_48號_20201012",
+                    "faceName": "計_48號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_41號_20201012_F2",
+                    "faceName": "計_41號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_中街_28,30,32號_20201012",
+                    "faceName": "中_28,30,32號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_中街_34號_20201012",
+                    "faceName": "中_34號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_中街_36號_20201012",
+                    "faceName": "中_36號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_中街_38號_20201012",
+                    "faceName": "中_38號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_中街_40號_20201012",
+                    "faceName": "中_40號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_中街_42號_20201012",
+                    "faceName": "中_42號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_中街_46號_20201012",
+                    "faceName": "中_46號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街1號_20201012",
+                    "faceName": "客1號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街3,5號_20201012",
+                    "faceName": "客3,5號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街7號_20201012",
+                    "faceName": "客7號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街9號_20201012",
+                    "faceName": "客9號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街11號_20201012",
+                    "faceName": "客11號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街13號_20201012",
+                    "faceName": "客13號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街15,17,19號_20201012",
+                    "faceName": "客15,17,19號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街21,23號_20201012",
+                    "faceName": "客21,23號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街25號_20201012",
+                    "faceName": "客25號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街27號_20201012",
+                    "faceName": "客27號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街29號_20201012",
+                    "faceName": "客29號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街33號_20201012",
+                    "faceName": "客33號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街2號_F1_20201012",
+                    "faceName": "客2號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街2號_F2_20201012",
+                    "faceName": "客2號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街4號_F1_20201012",
+                    "faceName": "客4號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街4號_F2_20201012",
+                    "faceName": "客4號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街6號_F1_20201012",
+                    "faceName": "客6號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街6號_F2_20201012",
+                    "faceName": "客6號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街8號_F1_20201012",
+                    "faceName": "客8號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街8號_F2_20201012",
+                    "faceName": "客8號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街10,12號_F1_20201012",
+                    "faceName": "客10,12號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街10,12號_F2_20201012",
+                    "faceName": "客10,12號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街14號_F1_20201012",
+                    "faceName": "客14號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街14號_F2_20201012",
+                    "faceName": "客14號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街16號_F1_20201012",
+                    "faceName": "客16號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街16號_F2_20201012",
+                    "faceName": "客16號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街18號_F1_20201012",
+                    "faceName": "客18號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街18號_F2_20201012",
+                    "faceName": "客18號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街20號_F1_20201012",
+                    "faceName": "客20號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街20號_F2_20201012",
+                    "faceName": "客20號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街22號_F1_20201012",
+                    "faceName": "客22號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街22號_F2_20201012",
+                    "faceName": "客22號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街26號_F1_20201012",
+                    "faceName": "客26號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街26號_F2_20201012",
+                    "faceName": "客26號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街62AA號_F1_20201012",
+                    "faceName": "客62AA號_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街62AA號_F2_20201012",
+                    "faceName": "客62AA號_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街30號_20201012",
+                    "faceName": "客30號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街M18_20201012",
+                    "faceName": "客M18",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街M19_20201012",
+                    "faceName": "客M19",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_恩尼斯總統前地_路環市政街市_F1_20201012",
+                    "faceName": "恩_路環市政街市_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_恩尼斯總統前地_路環市政街市_F2_20201012",
+                    "faceName": "恩_路環市政街市_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_恩尼斯總統前地1,6號_20201012",
+                    "faceName": "恩1,6號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_恩尼斯總統前地M18_20201012",
+                    "faceName": "恩M18",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_恩尼斯總統前地M19_20201012",
+                    "faceName": "恩M19",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_恩尼斯總統前地_路環衛生站_F1_20201012",
+                    "faceName": "恩_路環衛生站_F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_恩尼斯總統前地_路環衛生站_F2_20201012",
+                    "faceName": "恩_路環衛生站_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_恩尼斯總統前地_路環衛生站_F3_20201012",
+                    "faceName": "恩_路環衛生站_F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_恩尼斯總統前地_路環衛生站_F4_20201012",
+                    "faceName": "恩_路環衛生站_F4",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_恩尼斯總統前地_路環衛生站_F5_20201012",
+                    "faceName": "恩_路環衛生站_F5",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
