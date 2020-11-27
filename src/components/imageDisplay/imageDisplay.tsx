@@ -95,7 +95,7 @@ export const ImageDisplay: FC<RouteComponentProps<{ placeID: string, faceID: str
                     (
                         bigImageSrc ?
                         <div className={style.big_image}>
-                            <img title='Open full photo in new tab' onClick={() => { window.open(`/photos/${placeID}/${encodeURIComponent(bigImageSrc!)}.jpg`); } } src={`/photos/${placeID}/${bigImageSrc}.jpg`}/>
+                            <img title='Open full photo in new tab' onClick={() => { window.open(`/photos/${placeID}/${bigImageSrc}.jpg`); } } src={`/photos/${placeID}/${bigImageSrc}.jpg`}/>
                         </div>
                         :
                         <div>Cannot find image.</div>
@@ -146,7 +146,7 @@ const FaceImageThumbnail: FC<{ faceID: string, imageSrc: string, placeID: string
     return (
         <div className={style.thumbnail}>
             <div>
-                <img src={`/photos/${placeID}/${encodeURIComponent(imageSrc)}_thumbnail.jpg`}/>
+                <img src={`/photos/${placeID}/${imageSrc}_thumbnail.jpg`}/>
             </div>
             <div>
                 {faceID}
