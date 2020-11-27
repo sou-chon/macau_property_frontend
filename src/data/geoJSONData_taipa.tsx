@@ -998,8 +998,18 @@ export const taipaProperties = [
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CT002_嘉妹前地37,39,43,45,49,53號_20201006",
-                    "faceName": "嘉37,39,43,45,49,53號",
+                    "imageFileName": "CT002_嘉妹前地37,39,43號_20201006",
+                    "faceName": "嘉37,39,43號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_嘉妹前地45,49號_20201006",
+                    "faceName": "嘉45,49號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT002_嘉妹前地53號_20201006",
+                    "faceName": "嘉53號",
                     "year": 2020
                 },
                 {
@@ -1033,13 +1043,8 @@ export const taipaProperties = [
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CT002_客商街9,9A號_20201006",
-                    "faceName": "客9,9A號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CT002_客商街31號_20201006",
-                    "faceName": "客31號",
+                    "imageFileName": "CT002_客商街9,9A,31號_20201006",
+                    "faceName": "客9,9A,31號",
                     "year": 2020
                 },
                 {
@@ -1073,23 +1078,18 @@ export const taipaProperties = [
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CT002_客商街8號_20201006",
-                    "faceName": "客8號",
+                    "imageFileName": "CT002_客商街8,10號_20201006",
+                    "faceName": "客8,10號",
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CT002_客商街10號_20201006",
-                    "faceName": "客10號",
+                    "imageFileName": "CT002_中街1號_20201006",
+                    "faceName": "中1號",
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CT002_中街1,3,5號_20201006",
-                    "faceName": "中1,3,5號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CT002_中街7號_20201006",
-                    "faceName": "中7號",
+                    "imageFileName": "CT002_中街3,7號_20201006",
+                    "faceName": "中3,7號",
                     "year": 2020
                 },
                 {
