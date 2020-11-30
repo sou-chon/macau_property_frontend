@@ -5,7 +5,7 @@ const captions = captionFile.toString().split('\n').reverse();
 const fileNameFile = fs.readFileSync('./draft2');
 const fileName = fileNameFile.toString().split('\n').reverse();
 
-let arr = new Array(16).fill({
+let arr = new Array(95).fill({
     imageFileName: "",
     faceName: "",
     year: 2020
