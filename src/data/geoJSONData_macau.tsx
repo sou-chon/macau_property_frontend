@@ -399,6 +399,11 @@ export const macauProperties = [
                     "imageFileName": "MM005_聖老楞佐堂及前地_風順堂街_20200928_F5",
                     "faceName": "F5",
                     "year": 2020
+                },
+                {
+                    "imageFileName": "MM005_聖老楞佐堂及前地_風順堂街_20200928_D1",
+                    "faceName": "D1",
+                    "year": 2020
                 }
             ]
         },
@@ -992,7 +997,58 @@ export const macauProperties = [
             "name": "東望洋炮台、聖母雪地殿教堂及燈塔",
             "id": "MM011",
             "address": "位於東望洋山",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_F1",
+                    "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_F2",
+                    "faceName": "F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_F3",
+                    "faceName": "F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_D2",
+                    "faceName": "D2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_D3",
+                    "faceName": "D3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_D4",
+                    "faceName": "D4",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_D5",
+                    "faceName": "D5",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_D6",
+                    "faceName": "D6",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_D7",
+                    "faceName": "D7",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -2309,6 +2365,31 @@ export const macauProperties = [
                 {
                     "imageFileName": "MM024_蓮峯廟_罅些喇提督大馬路_20201008_F2",
                     "faceName": "F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM024_蓮峯廟_罅些喇提督大馬路_20201008_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM024_蓮峯廟_罅些喇提督大馬路_20201008_D2",
+                    "faceName": "D2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM024_蓮峯廟_罅些喇提督大馬路_20201008_D3",
+                    "faceName": "D3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM024_蓮峯廟_罅些喇提督大馬路_20201008_D4",
+                    "faceName": "D4",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM024_蓮峯廟_罅些喇提督大馬路_20201008_D5",
+                    "faceName": "D5",
                     "year": 2020
                 }
             ]
@@ -3917,7 +3998,13 @@ export const macauProperties = [
                     "imageFileName": "AM003_聖若瑟修院大樓_崗頂前地_20200928_F2",
                     "faceName": "F2",
                     "year": 2020
-                }
+                },
+                {
+                    "imageFileName": "AM003_聖若瑟修院大樓_崗頂前地_20200928_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                },
+
             ]
         },
         "geometry": {
@@ -4139,6 +4226,16 @@ export const macauProperties = [
                 {
                     "imageFileName": "AM005_何東圖書大館_崗頂前地3號_20200811_F3",
                     "faceName": "F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "AM005_何東圖書大館_崗頂前地3號_20200811_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "AM005_何東圖書大館_崗頂前地3號_20200811_D2",
+                    "faceName": "D2",
                     "year": 2020
                 }
             ]
