@@ -574,13 +574,8 @@ export const coloaneProperties = [
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CC001_計單奴街_2,4號_20201012",
-                    "faceName": "計_2,4號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CC001_計單奴街_6號_20201012",
-                    "faceName": "計_6號",
+                    "imageFileName": "CC001_計單奴街_2,4,6號_20201012",
+                    "faceName": "計_2,4,6號",
                     "year": 2020
                 },
                 {
@@ -594,8 +589,13 @@ export const coloaneProperties = [
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CC001_計單奴街_22,24號_20201012",
-                    "faceName": "計_22,24號",
+                    "imageFileName": "CC001_計單奴街_22號_20201012",
+                    "faceName": "計_22號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_計單奴街_24號_20201012",
+                    "faceName": "計_24號",
                     "year": 2020
                 },
                 {
@@ -624,23 +624,8 @@ export const coloaneProperties = [
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CC001_計單奴街_30,32號_20201012",
-                    "faceName": "計_30,32號",
-                    "year": 2020
-                },
-                {
                     "imageFileName": "CC001_計單奴街_40,42號_20201012",
                     "faceName": "計_40,42號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CC001_計單奴街_46號_20201012",
-                    "faceName": "計_46號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CC001_計單奴街_48號_20201012",
-                    "faceName": "計_48號",
                     "year": 2020
                 },
                 {
@@ -659,43 +644,38 @@ export const coloaneProperties = [
                     "year": 2020
                 },
                 {
+                    "imageFileName": "CC001_計單奴街_42號_20201012",
+                    "faceName": "計_42號",
+                    "year": 2020
+                },
+                {
                     "imageFileName": "CC001_計單奴街_20201012_F22",
                     "faceName": "計_F22",
                     "year": 2020
                 },
                 {
                     "imageFileName": "CC001_中街_30,32號_20201012",
-                    "faceName": "中街_30,32號",
+                    "faceName": "中_30,32號",
                     "year": 2020
                 },
                 {
                     "imageFileName": "CC001_中街_34號_20201012",
-                    "faceName": "中街_34號",
+                    "faceName": "中_34號",
                     "year": 2020
                 },
                 {
                     "imageFileName": "CC001_中街_36號_20201012",
-                    "faceName": "中街_36號",
+                    "faceName": "中_36號",
                     "year": 2020
                 },
                 {
                     "imageFileName": "CC001_中街_38號_20201012",
-                    "faceName": "中街_38號",
+                    "faceName": "中_38號",
                     "year": 2020
                 },
                 {
                     "imageFileName": "CC001_中街_40號_20201012",
-                    "faceName": "中街_40號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CC001_中街_42號_20201012",
-                    "faceName": "中街_42號",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CC001_中街_46號_20201012",
-                    "faceName": "中街_46號",
+                    "faceName": "中_40號",
                     "year": 2020
                 },
                 {
@@ -734,8 +714,13 @@ export const coloaneProperties = [
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CC001_客商街21,23號_20201012",
-                    "faceName": "客21,23號",
+                    "imageFileName": "CC001_客商街21號_20201012",
+                    "faceName": "客21號",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_客商街23號_20201012",
+                    "faceName": "客23號",
                     "year": 2020
                 },
                 {
@@ -859,16 +844,6 @@ export const coloaneProperties = [
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CC001_客商街M18_20201012",
-                    "faceName": "客M18",
-                    "year": 2020
-                },
-                {
-                    "imageFileName": "CC001_客商街M19_20201012",
-                    "faceName": "客M19",
-                    "year": 2020
-                },
-                {
                     "imageFileName": "CC001_恩尼斯總統前地_路環市政街市_F1_20201012",
                     "faceName": "恩_路環市政街市_F1",
                     "year": 2020
@@ -921,6 +896,11 @@ export const coloaneProperties = [
                 {
                     "imageFileName": "CC001_恩尼斯總統前地_路環衛生站_F4_20201012",
                     "faceName": "恩_路環衛生站_F4",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CC001_恩尼斯總統前地_F5_20201012",
+                    "faceName": "恩_F5",
                     "year": 2020
                 }
             ]

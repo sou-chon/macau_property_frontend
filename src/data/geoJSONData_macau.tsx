@@ -1795,6 +1795,11 @@ export const macauProperties = [
                     "imageFileName": "MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F4",
                     "faceName": "F4",
                     "year": 2020
+                },
+                {
+                    "imageFileName": "MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F5",
+                    "faceName": "F5",
+                    "year": 2020
                 }
             ]
         },
