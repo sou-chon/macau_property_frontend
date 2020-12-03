@@ -1383,7 +1383,13 @@ export const coloaneProperties = [
             "name": "荔枝碗船廠片區",
             "id": "SC003",
             "address": "位於路環荔枝碗馬路",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SC003_荔枝碗船廠片區_路環荔枝碗馬路_20201110_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",

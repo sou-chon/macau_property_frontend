@@ -1481,6 +1481,11 @@ export const macauProperties = [
                     "imageFileName": "MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_D4",
                     "faceName": "D4",
                     "year": 2020
+                },
+                {
+                    "imageFileName": "MM015_聖方濟各(加思欄)炮台及兵營_加思欄馬路_20201017_D5",
+                    "faceName": "D5",
+                    "year": 2020
                 }
             ]
         },
@@ -1939,6 +1944,16 @@ export const macauProperties = [
                 {
                     "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D1",
                     "faceName": "D1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D2",
+                    "faceName": "D2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D3",
+                    "faceName": "D3",
                     "year": 2020
                 }
             ]
