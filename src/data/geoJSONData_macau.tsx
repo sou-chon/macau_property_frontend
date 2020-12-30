@@ -294,6 +294,11 @@ export const macauProperties = [
                     "imageFileName": "MM004_望德聖母堂及前地_聖母堂前地_0924_F2",
                     "faceName": "F2",
                     "year": 2020
+                },
+                {
+                    "imageFileName": "MM004_望德聖母堂及前地_聖母堂前地_1228_D1",
+                    "faceName": "D1",
+                    "year": 2020
                 }
             ]
         },
@@ -646,6 +651,26 @@ export const macauProperties = [
                 {
                     "imageFileName": "MM007_聖若瑟修院教堂_20200928_F3",
                     "faceName": "F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM007_聖若瑟修院教堂_20200928_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM007_聖若瑟修院教堂_20200928_D2",
+                    "faceName": "D2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM007_聖若瑟修院教堂_20200928_D3",
+                    "faceName": "D3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM007_聖若瑟修院教堂_20200928_D4",
+                    "faceName": "D4",
                     "year": 2020
                 }
             ]
@@ -1014,6 +1039,11 @@ export const macauProperties = [
                     "year": 2020
                 },
                 {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_F4",
+                    "faceName": "F4",
+                    "year": 2020
+                },
+                {
                     "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_D1",
                     "faceName": "D1",
                     "year": 2020
@@ -1046,6 +1076,16 @@ export const macauProperties = [
                 {
                     "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_D7",
                     "faceName": "D7",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_D8",
+                    "faceName": "D8",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM011_東望洋炮台、聖母雪地殿教堂及燈塔_東望洋山_20201027_D9",
+                    "faceName": "D9",
                     "year": 2020
                 }
             ]
@@ -1160,6 +1200,56 @@ export const macauProperties = [
                 {
                     "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20200925_D4",
                     "faceName": "D4",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20201217_D5",
+                    "faceName": "D5",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20201217_D6",
+                    "faceName": "D6",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20201217_D7",
+                    "faceName": "D7",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20201217_D8",
+                    "faceName": "D8",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20201217_D9",
+                    "faceName": "D9",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20201217_D10",
+                    "faceName": "D10",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20201217_D11",
+                    "faceName": "D11",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20201217_D12",
+                    "faceName": "D12",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20201217_D13",
+                    "faceName": "D13",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM012_大炮台(中央炮台)_炮兵馬路_20201217_D14",
+                    "faceName": "D14",
                     "year": 2020
                 }
             ]
@@ -1672,6 +1762,11 @@ export const macauProperties = [
                     "imageFileName": "MM016_關閘拱門_關閘廣場_20201008_F2",
                     "faceName": "F2",
                     "year": 2020
+                },
+                {
+                    "imageFileName": "MM016_關閘拱門_關閘廣場_20201008_D1",
+                    "faceName": "D1",
+                    "year": 2020
                 }
             ]
         },
@@ -1789,6 +1884,11 @@ export const macauProperties = [
                 {
                     "imageFileName": "MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F2",
                     "faceName": "F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM018_市政署大樓(原市政廳舊址)_亞美打利庇盧大馬路_新馬路163號_20200907_F2_2",
+                    "faceName": "F2_2",
                     "year": 2020
                 },
                 {
@@ -1954,6 +2054,41 @@ export const macauProperties = [
                 {
                     "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D3",
                     "faceName": "D3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D4",
+                    "faceName": "D4",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D5",
+                    "faceName": "D5",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D6",
+                    "faceName": "D6",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D7",
+                    "faceName": "D7",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D8",
+                    "faceName": "D8",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D9",
+                    "faceName": "D9",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM020_媽祖廟(媽閣廟)_媽閣廟前地_20200925_D10",
+                    "faceName": "D10",
                     "year": 2020
                 }
             ]
@@ -2840,6 +2975,111 @@ export const macauProperties = [
                     "imageFileName": "MM030_天后古廟_漁翁街_20201016_F1",
                     "faceName": "F1",
                     "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D2",
+                    "faceName": "D2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D3",
+                    "faceName": "D3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D4",
+                    "faceName": "D4",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D5",
+                    "faceName": "D5",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D6",
+                    "faceName": "D6",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D7",
+                    "faceName": "D7",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D8",
+                    "faceName": "D8",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D9",
+                    "faceName": "D9",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D10",
+                    "faceName": "D10",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D11",
+                    "faceName": "D11",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D12",
+                    "faceName": "D12",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D13",
+                    "faceName": "D13",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D14",
+                    "faceName": "D14",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D15_1",
+                    "faceName": "D15_1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D15_2",
+                    "faceName": "D15_2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D16",
+                    "faceName": "D16",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D17",
+                    "faceName": "D17",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D18",
+                    "faceName": "D18",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D19",
+                    "faceName": "D19",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM030_天后古廟_漁翁街_20201227_D20",
+                    "faceName": "D20",
+                    "year": 2020
                 }
             ]
         },
@@ -2987,6 +3227,72 @@ export const macauProperties = [
                     "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20200923_F1",
                     "faceName": "F1",
                     "year": 2020
+                },
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D2",
+                    "faceName": "D2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D3",
+                    "faceName": "D3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D4",
+                    "faceName": "D4",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D5",
+                    "faceName": "D5",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D6",
+                    "faceName": "D6",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D7",
+                    "faceName": "D7",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D8",
+                    "faceName": "D8",
+                    "year": 2020
+                },
+
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D9",
+                    "faceName": "D9",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D10",
+                    "faceName": "D10",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D11",
+                    "faceName": "D11",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D12",
+                    "faceName": "D12",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM032_土地古廟(沙梨頭)_麻子街_20201227_D13",
+                    "faceName": "D13",
+                    "year": 2020
                 }
             ]
         },
@@ -3103,6 +3409,11 @@ export const macauProperties = [
                 {
                     "imageFileName": "MM033_城牆遺跡(聖方濟各斜巷一段)_聖方濟各斜巷_大三巴斜巷_20200915_F1",
                     "faceName": "F1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "MM033_城牆遺跡(聖方濟各斜巷一段)_聖方濟各斜巷_大三巴斜巷_20200915_D1",
+                    "faceName": "D1",
                     "year": 2020
                 }
             ]
@@ -5304,8 +5615,18 @@ export const macauProperties = [
                     "year": 2020
                 },
                 {
-                    "imageFileName": "AM017_原利瑪寊中學附屬小學大樓舊址_西灣街19,21號_20200925_F3",
+                    "imageFileName": "AM017_原利瑪寊中學附屬小學大樓舊址_西灣街19,21號_20201230_F3",
                     "faceName": "F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "AM017_原利瑪寊中學附屬小學大樓舊址_西灣街19,21號_20201230_D1",
+                    "faceName": "D1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "AM017_原利瑪寊中學附屬小學大樓舊址_西灣街19,21號_20201230_D2",
+                    "faceName": "D2",
                     "year": 2020
                 }
             ]
@@ -6169,8 +6490,13 @@ export const macauProperties = [
                     "year": 2020
                 },
                 {
-                    "imageFileName": "AM027_鄭家大屋_龍頭左巷10號_20201008_F8",
-                    "faceName": "F8",
+                    "imageFileName": "AM027_鄭家大屋_龍頭左巷10號_20201229_F8_1",
+                    "faceName": "F8_1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "AM027_鄭家大屋_龍頭左巷10號_20201229_F8_2",
+                    "faceName": "F8_2",
                     "year": 2020
                 }
             ]
@@ -9116,6 +9442,26 @@ export const macauProperties = [
                     "imageFileName": "CM003_荷蘭園大馬路89號至95G號_20200924_T",
                     "faceName": "89號至95G號_T",
                     "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路_塔石巷4號_20201227_F1_1",
+                    "faceName": "F1_1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路_塔石巷4號_20201227_F1_2",
+                    "faceName": "F1_2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路_塔石巷4號_20201227_F2_1",
+                    "faceName": "F2_1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CM003_荷蘭園大馬路_塔石巷4號_20201227_F2_2",
+                    "faceName": "F2_2",
+                    "year": 2020
                 }
             ]
         },
@@ -11644,7 +11990,13 @@ export const macauProperties = [
             "name": "青洲山",
             "id": "SM007",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SM007_青洲山_20201228_T",
+                    "faceName": "T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",

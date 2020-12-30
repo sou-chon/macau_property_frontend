@@ -653,6 +653,21 @@ export const taipaProperties = [
                     "imageFileName": "AT001_路氹歷史館(原海島市政廳舊址)_各利雅施利華街_20201006_F2",
                     "faceName": "F2",
                     "year": 2020
+                },
+                {
+                    "imageFileName": "AT001_路氹歷史館(原海島市政廳舊址)_各利雅施利華街_20201229_D1_1",
+                    "faceName": "D1_1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "AT001_路氹歷史館(原海島市政廳舊址)_各利雅施利華街_20201229_D1_2",
+                    "faceName": "D1_2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "AT001_路氹歷史館(原海島市政廳舊址)_各利雅施利華街_20201229_D2",
+                    "faceName": "D2",
+                    "year": 2020
                 }
             ]
         },
@@ -763,6 +778,16 @@ export const taipaProperties = [
                     "year": 2020
                 },
                 {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_創薈館_20201006_F3",
+                    "faceName": "創薈館_F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_創薈館_20201006_F4",
+                    "faceName": "創薈館_F4",
+                    "year": 2020
+                },
+                {
                     "imageFileName": "CT001_嘉模前地，海邊馬路_匯藝廊_20201006_F1",
                     "faceName": "匯藝廊_F1",
                     "year": 2020
@@ -770,6 +795,16 @@ export const taipaProperties = [
                 {
                     "imageFileName": "CT001_嘉模前地，海邊馬路_匯藝廊_20201006_F2",
                     "faceName": "匯藝廊_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_匯藝廊_20201006_F3",
+                    "faceName": "匯藝廊_F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_匯藝廊_20201006_F4",
+                    "faceName": "匯藝廊_F4",
                     "year": 2020
                 },
                 {
@@ -783,6 +818,16 @@ export const taipaProperties = [
                     "year": 2020
                 },
                 {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_葡韻生活館-20201006_F3",
+                    "faceName": "葡韻生活館_F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_葡韻生活館_20201006_F4",
+                    "faceName": "葡韻生活館_F4",
+                    "year": 2020
+                },
+                {
                     "imageFileName": "CT001_嘉模前地，海邊馬路4號_風貌館_20201006_F1",
                     "faceName": "4號_風貌館_F1",
                     "year": 2020
@@ -793,6 +838,16 @@ export const taipaProperties = [
                     "year": 2020
                 },
                 {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路4號_風貌館_20201006_F3",
+                    "faceName": "4號_風貌館_F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路4號_風貌館_20201006_F3",
+                    "faceName": "4號_風貌館_F4",
+                    "year": 2020
+                },
+                {
                     "imageFileName": "CT001_嘉模前地，海邊馬路5號_迎賓館_20201006_F1",
                     "faceName": "5號_迎賓館_F1",
                     "year": 2020
@@ -800,6 +855,16 @@ export const taipaProperties = [
                 {
                     "imageFileName": "CT001_嘉模前地，海邊馬路5號_迎賓館_20201006_F2",
                     "faceName": "5號_迎賓館_F2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路5號_迎賓館_20201006_F3",
+                    "faceName": "5號_迎賓館_F3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "CT001_嘉模前地，海邊馬路5號_迎賓館_20201006_F4",
+                    "faceName": "5號_迎賓館_F4",
                     "year": 2020
                 }
             ]

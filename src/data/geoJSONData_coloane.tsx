@@ -1349,7 +1349,53 @@ export const coloaneProperties = [
             "name": "路環島海拔高度80米及以上區域",
             "id": "SC002",
             "address": "",
-            "images": []
+            "images": [
+                {
+                    "imageFileName": "SC002_路環島海拔高度80米及以上區域_20201226_T1",
+                    "faceName": "T1",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "SC002_路環島海拔高度80米及以上區域_20201226_T2",
+                    "faceName": "T2",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "SC002_路環島海拔高度80米及以上區域_20201226_T3",
+                    "faceName": "T3",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "SC002_路環島海拔高度80米及以上區域_20201226_T4",
+                    "faceName": "T4",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "SC002_路環島海拔高度80米及以上區域_20201226_T5",
+                    "faceName": "T5",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "SC002_路環島海拔高度80米及以上區域_20201226_T6",
+                    "faceName": "T6",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "SC002_路環島海拔高度80米及以上區域_20201226_T7",
+                    "faceName": "T7",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "SC002_路環島海拔高度80米及以上區域_20201226_T8",
+                    "faceName": "T8",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "SC002_路環島海拔高度80米及以上區域_礮臺山_20201226_T",
+                    "faceName": "礮臺山T",
+                    "year": 2020
+                }
+            ]
         },
         "geometry": {
             "type": "Polygon",
@@ -1386,6 +1432,11 @@ export const coloaneProperties = [
             "images": [
                 {
                     "imageFileName": "SC003_荔枝碗船廠片區_路環荔枝碗馬路_20201110_T",
+                    "faceName": "荔枝碗馬路T",
+                    "year": 2020
+                },
+                {
+                    "imageFileName": "SC003_荔枝碗船廠片區_20201012_T",
                     "faceName": "T",
                     "year": 2020
                 }
