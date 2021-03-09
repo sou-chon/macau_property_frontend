@@ -818,7 +818,7 @@ export const taipaProperties = [
                     "year": 2020
                 },
                 {
-                    "imageFileName": "CT001_嘉模前地，海邊馬路_葡韻生活館-20201006_F3",
+                    "imageFileName": "CT001_嘉模前地，海邊馬路_葡韻生活館_20201006_F3",
                     "faceName": "葡韻生活館_F3",
                     "year": 2020
                 },

@@ -266,6 +266,11 @@ export const coloaneProperties = [
                     "year": 2020
                 },
                 {
+                    "imageFileName": "MC005_三聖宮_船人街_20201012_F1_2",
+                    "faceName": "F1_2",
+                    "year": 2020
+                },
+                {
                     "imageFileName": "MC005_三聖宮_船人街_20201012_F2",
                     "faceName": "F2",
                     "year": 2020
@@ -1430,11 +1435,6 @@ export const coloaneProperties = [
             "id": "SC003",
             "address": "位於路環荔枝碗馬路",
             "images": [
-                {
-                    "imageFileName": "SC003_荔枝碗船廠片區_路環荔枝碗馬路_20201110_T",
-                    "faceName": "荔枝碗馬路T",
-                    "year": 2020
-                },
                 {
                     "imageFileName": "SC003_荔枝碗船廠片區_20201012_T",
                     "faceName": "T",
